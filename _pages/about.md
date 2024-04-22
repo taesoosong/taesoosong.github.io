@@ -24,7 +24,7 @@ First, I study the nexus between **local housing policies, neighborhood change, 
 - Whether novel big data sources can help us research household residential mobility more closely (submitted to a journal)
 - Whether there are increasing investor purchases of naturally occurring affordable housing (NOAH) stocks in California and how they relate to neighborhood change
 
-I am also deeply interested in the profound demographic shift towards **greater ethnic diversity in American and Canadian cities**, driven by the immigration of Asian and Hispanic populations. This growing trend requires an updated understanding of how policy and planning impact patterns of housing access and segregation beyond the white-black binary paradigm. Recent projects include:
+Second, I am also deeply interested in the profound demographic shift towards **greater ethnic diversity in American and Canadian cities**, driven by the immigration of Asian and Hispanic populations. This growing trend requires an updated understanding of how policy and planning impact patterns of housing access and segregation beyond the white-black binary paradigm. Recent projects that examine this issue include:
 - How provincial foreign buyer taxes, in response to international capital inflows into housing markets, impact rental market affordability in British Columbia and Ontario, Canada submitted to a journal)
 - My dissertation research, outlined below.
 
