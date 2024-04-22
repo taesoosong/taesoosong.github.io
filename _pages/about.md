@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi, my name is Taesoo (he/him)! 👋🏻"
+title: "Hi, my name is Taesoo! 👋🏻"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -30,7 +30,7 @@ I am also deeply interested in the profound demographic shift towards **greater 
 
 
 ## Dissertation
-**My dissertation research** seeks to reassess the prevailing narrative that Asian Americans encounter minimal barriers in the housing market. Specifically, I hypothesize that Asian Americans face both conventional resource-based housing constraints and distinct forms of housing discrimination, which could potentially be underestimated when their vast internal diversity and unique experiences of racism are disregarded. I answer three questions using quantitative and computational text analysis methods:
-- Have Asian Americans experienced unequal levels of homeownership and neighborhood quality by ethnic groups, and if so, what factors explain these disparities?
+My dissertation research seeks to **reassess the prevailing narrative that Asian Americans encounter minimal barriers in the housing market**. Specifically, I hypothesize that Asian Americans face both conventional resource-based housing constraints and distinct forms of housing discrimination, which could potentially be underestimated when their vast internal diversity and unique experiences of racism are disregarded in research. I answer three questions using both quantitative and qualitative methods:
+- Have Asian Americans experienced unequal levels of homeownership and housing burden by ethnic groups, and if so, what factors explain these disparities?
 - How do restrictive land use regulations affect segregation among Asian Americans?
-- Do recent property purchase restrictions targeting foreigners, particularly the Chinese, manifest exclusionary motives against the housing access of Asian Americans?
+- Do recent property purchase restrictions targeting foreigners, particularly the Chinese, reflect exclusionary motives against the housing access of Chinese/Asian Americans?
