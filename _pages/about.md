@@ -1,4 +1,4 @@
-![image](https://github.com/taesoosong/taesoosong.github.io/assets/76719398/603e616c-99ee-4e13-b326-098742934841)---
+---
 permalink: /
 title: "Hi, my name is Taesoo! 👋🏻"
 excerpt: "About me"
