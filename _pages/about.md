@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 ## About
-I am a **Ph.D. Candidate at the Department of City and Regional Planning** **at University of California, Berkeley**. 
+I am a **Ph.D. Candidate in the Department of City and Regional Planning** **at University of California, Berkeley**. 
 
-I am currently a Graduate Student Researcher at the **Terner Center for Housing Innovation**, a Hildebrand Research Fellow at the **Berkeley Canadian Studies Program**, and a Doctoral Fellow at the **Korea Foundation for Advanced Studies**. I have also worked as a Graduate Student Researcher at the Urban Displacement Project. Prior to my PhD program, I was a researcher at the Seoul Institute, studying commercial gentrification and urban industries in downtown Seoul.
+I am currently a Graduate Student Researcher at the **Terner Center for Housing Innovation**, a Hildebrand Research Fellow at the **Berkeley Canadian Studies Program**, and a Doctoral Fellow at the **Korea Foundation for Advanced Studies**. I have also worked as a Graduate Student Researcher at the Urban Displacement Project. Prior to my doctoral program, I was a researcher at the Seoul Institute, studying commercial gentrification and urban industries in downtown Seoul.
 
 Please refer to my [**Curriculum Vitae**](https://taesoosong.github.io/academic_cv/song_taesoo_cv.pdf) for more information.
 
@@ -19,7 +19,7 @@ Please refer to my [**Curriculum Vitae**](https://taesoosong.github.io/academic_
 I have two sets of closely related research areas.
 
 First, I study the nexus between **local housing policies, neighborhood change, and residential outcomes of low-income and minority households**, particularly in high-cost metropolitan areas. My recent and ongoing projects have explored:
-- How gentrification impacts housing choices of low-income households in the New York and San Francisco metropolitan areas (forthcoming in _Urban Studies_)
+- How gentrification impacts housing choices of low-income households in the New York and San Francisco metropolitan areas (in press at _Urban Studies_)
 - How housing construction impacts displacement and exclusion of low- and moderate-income households in Los Angeles and San Francisco (published in [_Journal of American Planning Association_](https://doi.org/10.1080/01944363.2024.2319293))
 - Whether novel big data sources can help us research household residential mobility more closely (submitted to a journal)
 - Whether there are increasing investor purchases of naturally occurring affordable housing (NOAH) stocks in California and how they relate to neighborhood change
