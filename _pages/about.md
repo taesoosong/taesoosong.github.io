@@ -11,7 +11,7 @@ redirect_from:
 ## About
 I am a **Ph.D. Candidate in the Department of City and Regional Planning** **at University of California, Berkeley**. 
 
-I am currently a Graduate Student Researcher at the **Terner Center for Housing Innovation**, a Hildebrand Research Fellow at the **Berkeley Canadian Studies Program**, and a Doctoral Fellow at the **Korea Foundation for Advanced Studies**. I have also worked as a Graduate Student Researcher at the Urban Displacement Project. Prior to my doctoral program, I was a researcher at the Seoul Institute, studying commercial gentrification and urban industries in downtown Seoul.
+I am currently a Graduate Student Researcher at the **Terner Center for Housing Innovation**, a Hildebrand Research Fellow at the **Berkeley Canadian Studies Program**, and a Doctoral Fellow at the **Korea Foundation for Advanced Studies**. I have also worked as a Graduate Student Researcher at the **Urban Displacement Project**. Prior to my doctoral program, I was a researcher at the **Seoul Institute**, studying commercial gentrification and urban industries in downtown Seoul.
 
 Please refer to my [**Curriculum Vitae**](https://taesoosong.github.io/academic_cv/song_taesoo_cv.pdf) for more information.
 
