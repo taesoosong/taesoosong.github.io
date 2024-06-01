@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## About
-I am a Ph.D. Candidate in the **Department of City and Regional Planning** at **University of California, Berkeley**. My current affiliations include:
+I am a Ph.D. Candidate in the Department of City and Regional Planning at University of California, Berkeley. My current affiliations include:
 - Graduate Student Researcher, [Terner Center for Housing Innovation](https://ternercenter.berkeley.edu/),
 - Hildebrand Research Fellow, [UC Berkeley Canadian Studies Program](https://canada.berkeley.edu/home)
 - Doctoral Fellow, [Korea Foundation for Advanced Studies](https://eng.kfas.or.kr/).
