@@ -10,9 +10,9 @@ redirect_from:
 
 ## About
 I am a Ph.D. Candidate in the Department of City and Regional Planning at University of California, Berkeley. My current affiliations include:
-- Graduate Student Researcher, [Terner Center for Housing Innovation](https://ternercenter.berkeley.edu/),
+- Graduate Student Researcher, [Terner Center for Housing Innovation](https://ternercenter.berkeley.edu/)
 - Hildebrand Research Fellow, [UC Berkeley Canadian Studies Program](https://canada.berkeley.edu/home)
-- Doctoral Fellow, [Korea Foundation for Advanced Studies](https://eng.kfas.or.kr/).
+- Doctoral Fellow, [Korea Foundation for Advanced Studies](https://eng.kfas.or.kr/)
 
 I have also worked as a Graduate Student Researcher at the [Urban Displacement Project](https://www.urbandisplacement.org/). Prior to my doctoral program, I was a researcher at the [Seoul Institute](https://global.si.re.kr/), studying commercial gentrification and urban industries in downtown Seoul.
 
