@@ -9,15 +9,12 @@ redirect_from:
 ---
 
 ## About
-I am a Ph.D. Candidate in the Department of City and Regional Planning at University of California, Berkeley, studying urban planning and housing policy. Please refer to my [**Curriculum Vitae**](https://taesoosong.github.io/academic_cv/song_taesoo_cv.pdf) for more information.
-
-My current affiliations include:
+I am a Ph.D. Candidate in the Department of City and Regional Planning at University of California, Berkeley, studying urban planning and housing policy. My current affiliations include:
 - Graduate Student Researcher, [Terner Center for Housing Innovation](https://ternercenter.berkeley.edu/)
 - Graduate Fellow, [UC Berkeley Asian American Studies Research Center](https://issi.berkeley.edu/aarc)
 - Data Science Fellow, [UC Berkeley D-lab](https://dlab.berkeley.edu/)
-- Doctoral Fellow, [Korea Foundation for Advanced Studies](https://eng.kfas.or.kr/)
 
-I have also worked as a Graduate Student Researcher at the [Urban Displacement Project](https://www.urbandisplacement.org/). Prior to my doctoral program, I was a researcher at the [Seoul Institute](https://global.si.re.kr/), studying commercial gentrification and urban industries in downtown Seoul.
+I have also worked as a Graduate Student Researcher at the [Urban Displacement Project](https://www.urbandisplacement.org/). Prior to my doctoral program, I was a researcher at the [Seoul Institute](https://global.si.re.kr/), studying commercial gentrification and urban industries in downtown Seoul. Please refer to my [**Curriculum Vitae**](https://taesoosong.github.io/academic_cv/song_taesoo_cv.pdf) for more information.
 
 ## Research Areas
 I have two sets of closely related research areas.
@@ -32,9 +29,12 @@ Second, I am also deeply interested in the profound demographic shift towards **
 - How provincial foreign buyer taxes, in response to international capital inflows into housing markets, impact rental market affordability in British Columbia and Ontario in Canada (submitted to a journal)
 - My dissertation research, outlined below.
 
-
 ## Dissertation
 My dissertation research seeks to **reassess the prevailing narrative that Asian Americans encounter minimal barriers in the housing market**. Specifically, I hypothesize that Asian Americans face both conventional resource-based housing constraints and distinct forms of housing discrimination, which could potentially be underestimated when their vast internal diversity and unique experiences of racism are disregarded in research. I answer three questions using both quantitative and qualitative methods:
-- Have Asian Americans experienced unequal levels of homeownership and housing burden by ethnic groups, and if so, what factors explain these disparities?
+- Do Asian Americans experience unequal levels of homeownership by ethnic groups, and if so, what factors explain these disparities?
 - How do restrictive land use regulations affect segregation among Asian Americans?
 - Do recent property purchase restrictions targeting foreigners, particularly the Chinese, reflect exclusionary motives against the housing access of Chinese/Asian Americans?
+
+## Teaching
+I have been teaching courses on Urban Data Analytics and U.S. Housing Policy and Planning at UC Berkeley's Department of City and Regional Planning as an instructor.
+From Fall 2024, I will be instructing [UC Berkeley D-lab](https://dlab.berkeley.edu/)'s Data Science Workshops as a Data Science Fellow.
