@@ -29,7 +29,6 @@ First, I study the nexus between **local housing policies, neighborhood change, 
 
 Second, I am also deeply interested in the profound demographic shift towards **greater ethnic diversity in American and Canadian cities** with a focus on Asian populations. This growing trend requires an updated understanding of how policy and planning impact patterns of housing access and segregation beyond the white-black binary paradigm. Recent projects that examine this issue include:
 - How provincial foreign buyer taxes, in response to international capital inflows into housing markets, impact rental market affordability in British Columbia and Ontario in Canada (submitted to a journal)
-- My dissertation research, outlined below.
 
 ## Dissertation
 My dissertation research seeks to **reassess the prevailing narrative that Asian Americans encounter minimal barriers in the housing market**. Specifically, I hypothesize that Asian Americans face both conventional resource-based housing constraints and distinct forms of housing discrimination, which could potentially be underestimated when their vast internal diversity and unique experiences of racism are disregarded in research. I answer three questions using both quantitative and qualitative methods:
