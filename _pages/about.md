@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## About
-I am a Ph.D. Candidate in the Department of City and Regional Planning at University of California, Berkeley, studying urban planning and housing policy. Please refer to my [**Curriculum Vitae**](https://taesoosong.github.io/academic_cv/song_taesoo_cv.pdf) for more information.
+I am a Ph.D. Candidate in the Department of City and Regional Planning at University of California, Berkeley, studying urban planning and housing policy. Please refer to my 💡[**Curriculum Vitae**](https://taesoosong.github.io/academic_cv/song_taesoo_cv.pdf) for more information.
 
 My current affiliations include:
 - Graduate Student Researcher, [Terner Center for Housing Innovation](https://ternercenter.berkeley.edu/)
