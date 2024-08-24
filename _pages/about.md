@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## About
-I am a Ph.D. Candidate in the Department of City and Regional Planning at University of California, Berkeley, studying urban planning and housing policy. Please refer to my 💡[**Curriculum Vitae**](https://taesoosong.github.io/academic_cv/song_taesoo_cv.pdf)💡 for more information.
+I am a Ph.D. Candidate in the Department of City and Regional Planning at University of California, Berkeley, studying urban planning and housing policy. Please refer to my 💡[**Curriculum Vitae**](https://taesoosong.github.io/academic_cv/song_taesoo_cv.pdf) for more information.
 
 My current affiliations include:
 - Graduate Student Researcher, [Terner Center for Housing Innovation](https://ternercenter.berkeley.edu/)
@@ -26,7 +26,7 @@ First, I study the nexus between **local housing policies, neighborhood change, 
 - How housing construction impacts displacement and exclusion of low- and moderate-income households in Los Angeles and San Francisco (published in [_Journal of American Planning Association_](https://doi.org/10.1080/01944363.2024.2319293), co-authored with Karen Chapple)
 - How novel big data sources can help us better study household residential mobility (accepted for publication in _Cityscape_, co-authored with Alex Ramiller, Madeleine Parker, and Karen Chapple)
 - Whether there are increasing investor purchases of naturally occurring affordable housing (NOAH) stocks in California and how they might relate to neighborhood change and renter displacement (co-authored with Carolina Reid)
-- Whether upzonings in New York City have resulted in the displacement of low-income renters (co-authored with Jenna Davis, Karen Chapple)
+- Whether upzonings in New York City resulted in the displacement of low-income renters (co-authored with Jenna Davis, Karen Chapple)
 
 Second, I am also deeply interested in the profound demographic shift towards **greater ethnic diversity in American and Canadian cities** with a focus on Asian populations. This growing trend requires an updated understanding of how policy and planning impact patterns of housing access and segregation beyond the white-black binary paradigm. Recent projects that examine this issue include:
 - How provincial foreign buyer taxes, in response to international capital inflows into housing markets, impact rental market affordability in British Columbia and Ontario in Canada (submitted to a journal)
