@@ -38,4 +38,4 @@ My dissertation research seeks to **reassess the prevailing narrative that Asian
 - Do recent property purchase restrictions targeting foreigners, particularly the Chinese, reflect exclusionary motives against the housing access of Chinese/Asian Americans?
 
 ## Teaching
-I have been teaching courses on Urban Data Analytics and U.S. Housing Policy and Planning at UC Berkeley's Department of City and Regional Planning as an instructor. From Fall 2024, I will be instructing [UC Berkeley D-lab](https://dlab.berkeley.edu/)'s Data Science Workshops as a Data Science Fellow.
+I have been teaching courses on **Urban Data Analytics** and **U.S. Housing Policy and Planning** at UC Berkeley's Department of City and Regional Planning as an instructor. From Fall 2024, I will also be instructing [UC Berkeley D-lab](https://dlab.berkeley.edu/)'s **Data Science Workshops** as a Data Science Fellow.
