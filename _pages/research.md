@@ -53,11 +53,11 @@ I am also deeply interested in the profound demographic shift towards **greater 
 
 ## 3. Dissertation: Reassessing Asian American Exceptionalism in Housing
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 2%; flex-wrap: wrap; width: 100%;">
-  <div style="flex: 1; text-align: center; max-width: 48%;">
-    <img src="../images/research/pown_null.png" alt="Chapter 1a" style="width: 100%; height: auto;"/>
+<div style="display: flex; justify-content: center; align-items: center; gap: 2%; flex-wrap: wrap; width: 97%;">
+  <div style="flex: 1; text-align: center; max-width: 47%;">
+    <img src="../images/research/pown_null.png" alt="Chapter 1a" style="width: 99%; height: auto;"/>
   </div>
-  <div style="flex: 1; text-align: center; max-width: 48%;">
-    <img src="../images/research/housing_market_2019_MSA.png" alt="Chapter 1b" style="width: 100%; height: auto;"/>
+  <div style="flex: 1; text-align: center; max-width: 47%;">
+    <img src="../images/research/housing_market_2019_MSA.png" alt="Chapter 1b" style="width: 99%; height: auto;"/>
   </div>
 </div>
