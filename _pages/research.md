@@ -27,7 +27,7 @@ I study the nexus between **local housing policies, neighborhood change, and res
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <div style="flex: 1; text-align: center;">
-    <img src="../images/research/urbanstudies_2024.png" alt="Urban Studies (2024)" style="max-width: 98%; height: auto;"/>
+    <img src="../images/research/urbanstudies_2024.jpeg" alt="Urban Studies (2024)" style="max-width: 98%; height: auto;"/>
   </div>
 </div>
 
@@ -35,7 +35,7 @@ I study the nexus between **local housing policies, neighborhood change, and res
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <div style="flex: 1; text-align: center;">
-    <img src="../images/research/japa_2024_a.png" alt="Journal of American Planning Association (2024)" style="max-width: 98%; height: auto;"/>
+    <img src="../images/research/japa_2024_a.jpg" alt="Journal of American Planning Association (2024)" style="max-width: 98%; height: auto;"/>
   </div>
 </div>
 
@@ -55,9 +55,9 @@ I am also deeply interested in the profound demographic shift towards **greater 
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <div style="flex: 1; text-align: center;">
-    <img src="../images/research/pown_null.png" alt="Chapter 1a" style="max-width: 49%; height: auto;"/>
+    <img src="../images/research/pown_null.png" alt="Chapter 1a" style="max-width: 48%; height: auto;"/>
   </div>
 <div style="flex: 1; text-align: center;">
-    <img src="../images/research/housing_market_2019_MSA.png" alt="Chapter 1b" style="max-width: 49%; height: auto;"/>
+    <img src="../images/research/housing_market_2019_MSA.png" alt="Chapter 1b" style="max-width: 48%; height: auto;"/>
   </div>
 </div>
