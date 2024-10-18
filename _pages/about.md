@@ -19,10 +19,10 @@ My current affiliations include:
 I have also worked as a Graduate Student Researcher at the [Urban Displacement Project](https://www.urbandisplacement.org/). Prior to my doctoral program, I was a researcher at the [Seoul Institute](https://global.si.re.kr/), studying commercial gentrification and urban industries in downtown Seoul.
 
 <p float="left">
-  <img src="../images/oaklandwalls.png" width="24.9%"/>
-  <img src="../images/sfchinatown.png" width="24.9%"/> 
-  <img src="../images/toronto2.png" width="24.9%"/> 
-  <img src="../images/toronto.png" width="24.9%"/> 
+  <img src="../images/oaklandwalls.png" width="24.5%"/>
+  <img src="../images/sfchinatown.png" width="24.5%"/> 
+  <img src="../images/toronto2.png" width="24.5%"/> 
+  <img src="../images/toronto.png" width="24.5%"/> 
 </p>
 
 ## Research Areas
