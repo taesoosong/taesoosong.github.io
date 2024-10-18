@@ -15,11 +15,11 @@ author_profile: true
 
 I study the nexus between **local housing policies, neighborhood change, and residential outcomes of low-income and minority households**, particularly in high-cost metropolitan areas. I'm particularly interested in leveraging non-traditional big data sources and quantitative methods to study these dynamics.
 
-#### Residential Mobility and Big Data: Assessing the Validity of Consumer Reference Datasets (2024, _Cityscape_, co-authored with Alex Ramiller, Madeleine Parker, and Karen Chapple)
+#### [2024] Residential Mobility and Big Data: Assessing the Validity of Consumer Reference Datasets (_Cityscape_, co-authored with Alex Ramiller, Madeleine Parker, and Karen Chapple)
 
-#### Does gentrification constrain housing markets for low-income households? Evidence from household residential mobility in the New York and San Francisco metropolitan areas (2024, [_Urban Studies_](https://doi.org/10.1177/00420980241244699), co-authored with Karen Chapple)
+#### [2024] Does gentrification constrain housing markets for low-income households? Evidence from household residential mobility in the New York and San Francisco metropolitan areas ([_Urban Studies_](https://doi.org/10.1177/00420980241244699), co-authored with Karen Chapple)
 
-####  Can New Housing Supply Mitigate Displacement and Exclusion? Evidence from Los Angeles and San Francisco (2024, [_Journal of American Planning Association_](https://doi.org/10.1080/01944363.2024.2319293), co-authored with Karen Chapple)
+####  [2024] Can New Housing Supply Mitigate Displacement and Exclusion? Evidence from Los Angeles and San Francisco ([_Journal of American Planning Association_](https://doi.org/10.1080/01944363.2024.2319293), co-authored with Karen Chapple)
 
 My ongoing projects are examining:
 
