@@ -19,7 +19,7 @@ I study the nexus between **local housing policies, neighborhood change, and res
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <div style="flex: 1; text-align: center;">
-    <img src="../images/research/cityscape_2024.png" alt="Cityscape (2024)" style="width: 300px; height: auto;"/>
+    <img src="../images/research/cityscape_2024.png" alt="Cityscape (2024)" style="width: 400px; height: auto;"/>
   </div>
 </div>
 
@@ -27,7 +27,7 @@ I study the nexus between **local housing policies, neighborhood change, and res
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <div style="flex: 1; text-align: center;">
-    <img src="../images/research/urbanstudies_2024.jpeg" alt="Urban Studies (2024)" style="width: 300px; height: auto;"/>
+    <img src="../images/research/urbanstudies_2024.jpeg" alt="Urban Studies (2024)" style="width: 400px; height: auto;"/>
   </div>
 </div>
 
@@ -35,7 +35,7 @@ I study the nexus between **local housing policies, neighborhood change, and res
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <div style="flex: 1; text-align: center;">
-    <img src="../images/research/japa_2024_a.jpg" alt="Journal of American Planning Association (2024)" style="width: 300px; height: auto;"/>
+    <img src="../images/research/japa_2024_a.jpg" alt="Journal of American Planning Association (2024)" style="width: 400px; height: auto;"/>
   </div>
 </div>
 
@@ -53,11 +53,11 @@ I am also deeply interested in the profound demographic shift towards **greater 
 
 ## 3. Dissertation: Reassessing Asian American Exceptionalism in Housing
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <div style="flex: 1; text-align: center;">
-    <img src="../images/research/pown_null.png" alt="Chapter 1a" style="width: 300px; height: auto;"/>
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <div style="text-align: center;">
+    <img src="../images/research/pown_null.png" alt="Chapter 1a" style="width: 400px; height: auto;"/>
   </div>
-  <div style="flex: 1; text-align: center;">
-    <img src="../images/research/housing_market_2019_MSA.png" alt="Chapter 1b" style="width: 300px; height: auto;"/>
+  <div style="text-align: center;">
+    <img src="../images/research/housing_market_2019_MSA.png" alt="Chapter 1b" style="width: 400px; height: auto;"/>
   </div>
 </div>
