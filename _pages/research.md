@@ -32,8 +32,8 @@ First, I study the nexus between **local housing policies, neighborhood change, 
 My dissertation research seeks to **reassess the prevailing narrative that Asian Americans encounter minimal barriers in the housing market**. Specifically, I hypothesize that Asian Americans face both conventional resource-based housing constraints and distinct forms of housing discrimination, which could potentially be underestimated when their vast internal diversity and unique experiences of racism are disregarded in research.
 
 <p float="left">
-  <img src="../images/sfchinatown.png" width="32%"/> 
-  <img src="../images/research/pown_null.png" width="64%"/> 
+  <img src="../images/sfchinatown.png" width="32%" height="300px" />
+  <img src="../images/research/pown_null.png" width="64%" height="300px" />
 </p>
 
 ### Immigration and Housing Markets
