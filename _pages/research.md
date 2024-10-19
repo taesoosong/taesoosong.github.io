@@ -39,7 +39,7 @@ My dissertation research seeks to **reassess the prevailing narrative that Asian
   <img src="../images/research/pown_null.png" width="64%" height="350px" style="vertical-align: middle;" />
 </p>
 
-## Housing Market Impacts of Immigration and Housing Policy Responses
+## Housing Market Impacts of Immigration and Policy Responses
 
 Although research has traditionally discussed the politicization of immigration largely through the lens of labor market competition, many countries have recently seen its growing salience in the housing affordability discourses. For example, countries such as Canada, Australia, Hong Kong, and Singapore have adopted taxation and other policy tools to discourage non-citizen purchases of homes. In some cases such as Canada, public discontents about housing affordability has even led to broader discourses and impacts on restrictive immigration policies as well. I am interested in **how immigration and international capital influence local housing markets** and **the effects of housing policies introduced to address these local impacts**.
 
