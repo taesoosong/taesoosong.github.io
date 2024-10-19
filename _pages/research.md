@@ -48,6 +48,6 @@ For instance, my research has examined:
 - How provincial foreign buyer taxes, in response to international capital inflows into housing markets, impact rental market affordability in British Columbia and Ontario in Canada (submitted to a journal)
 
 <p float="left">
-  <img src="../images/queens_building.png" width="48%"/> 
-    <img src="../images/chinese_realtor.png" width="48%"/> 
+  <img src="../images/queens_building.png" width="48%" style="vertical-align: middle;"/> 
+    <img src="../images/chinese_realtor.png" width="48%" style="vertical-align: middle;"/> 
 </p>
