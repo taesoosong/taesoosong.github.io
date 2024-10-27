@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Taesoo Song"
 title_separator          : "-"
 name                     : &name "Taesoo Song"
-description              : &description "PhD Candidate at UC Berkeley Dept. of City and Regional Planning"
+description              : &description "PhD Candidate, UC Berkeley"
 url                      : https://taesoosong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "taesoosong/taesoosong.github.io"
@@ -25,7 +25,7 @@ author:
   name             : "Taesoo Song"
   pronouns         : he/him
   bio              : "Urban/Housing Researcher.\nPhDing at UC Berkeley"
-  location         : "Oakland, CA"
+  location         : "San Francisco, CA"
   employer         : "UC Berkeley"
   uri              : # URL
   email            : "taesoo.song@berkeley.edu" 
