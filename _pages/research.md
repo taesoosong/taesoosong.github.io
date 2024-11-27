@@ -18,7 +18,7 @@ I study how **housing policies and neighborhood change impact housing access of 
 My research leverages **novel data sources and quantitative, geospatial methods** to study these dynamics, informing theory and policy. My recent and ongoing projects have explored:
 - How gentrification impacts housing choices of low-income households in the New York and San Francisco metropolitan areas ([_Urban Studies_](https://doi.org/10.1177/00420980241244699), 2024, co-authored with Karen Chapple)
 - How housing construction impacts displacement and exclusion of low- and moderate-income households in Los Angeles and San Francisco ([_Journal of American Planning Association_](https://doi.org/10.1080/01944363.2024.2319293), 2024, co-authored with Karen Chapple)
-- How novel big data sources can help us better study household residential mobility (accepted for publication in _Cityscape_, 2024, co-authored with Alex Ramiller, Madeleine Parker, and Karen Chapple)
+- How novel big data sources can help us better study household residential mobility ([_Cityscape_](https://www.huduser.gov/portal/periodicals/cityscape/vol26num3/article12.html), 2024, co-authored with Alex Ramiller, Madeleine Parker, and Karen Chapple)
 - Whether there are increasing investor purchases of naturally occurring affordable housing (NOAH) stocks in California and if they facilitate the displacement of renters (co-authored with Carolina Reid)
 - Whether upzonings in New York City facilitate the displacement of low-income renters (co-authored with Jenna Davis, Karen Chapple)
 
