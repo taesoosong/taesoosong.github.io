@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## About
-I am a Ph.D. Candidate in the Department of City and Regional Planning at University of California, Berkeley, studying urban planning and housing policy. Specifically, my research aims to understand how **housing policy and neighborhood change** impacts **segregation patterns and access to neighborhood opportunities**. My dissertation research also focuses on the **diverse housing experiences of Asian Americans** and how policy and planning shapes their housing outcomes.
+I am a Ph.D. Candidate in the Department of City and Regional Planning at University of California, Berkeley, studying urban planning and housing policy. My research lies at the intersection of **housing, immigration, inequality, and urban analytics**, organized around two themes. First, I explore how **moving beyond the pan-ethnic “Asian” category to examine ethnic differences and immigration trajectories** provides a more nuanced understanding of Asian American housing experiences. Second, I investigate **how housing policy shapes residential mobility across varying contexts**, leveraging big data and computational methods. 
 
 My current affiliations include:
 - Graduate Student Researcher, [Terner Center for Housing Innovation](https://ternercenter.berkeley.edu/)
