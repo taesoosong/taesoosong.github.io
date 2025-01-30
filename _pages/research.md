@@ -17,6 +17,8 @@ I study how **housing policy contexts impact residential mobility and broader ge
 
 My research leverages **novel data sources and quantitative, geospatial methods** to study these dynamics, informing theory and policy. My recent and ongoing projects have explored:
 - How gentrification impacts housing choices of low-income households in the New York and San Francisco metropolitan areas ([_Urban Studies_](https://doi.org/10.1177/00420980241244699), 2024, co-authored with Karen Chapple)
+  - Blog Post ([_Housing Matters_](https://housingmatters.urban.org/))
+  - Video Explainer ([_Urban Displacement Project_](https://www.youtube.com/watch?v=dsWAfFNVPTY))
 - How housing construction impacts displacement and exclusion of low- and moderate-income households in Los Angeles and San Francisco ([_Journal of American Planning Association_](https://doi.org/10.1080/01944363.2024.2319293), 2025, co-authored with Karen Chapple)
 - How novel big data sources can help us better study household residential mobility ([_Cityscape_](https://www.jstor.org/stable/48799257), 2024, co-authored with Alex Ramiller, Madeleine Parker, and Karen Chapple)
 - Whether there are increasing investor purchases of naturally occurring affordable housing (NOAH) stocks in California and if they facilitate the displacement of renters (co-authored with Carolina Reid)
@@ -39,7 +41,7 @@ My dissertation, **Rethinking ‘Asian’ in Housing: Ethnicity and Immigration 
   <img src="../images/research/pown_null.png" width="64%" height="350px" style="vertical-align: middle;" />
 </p>
 
-## Housing Market Impacts of Immigration and Policy Responses
+## Immigration, Housing Markets, and Policy Responses
 
 Although research has traditionally discussed the politicization of immigration largely through the lens of labor market competition, many countries have recently seen its growing salience in the housing affordability discourses. For example, countries such as Canada, Australia, Hong Kong, and Singapore have adopted taxation and other policy tools to discourage non-citizen purchases of homes. In some cases such as Canada, public discontents about housing affordability has even led to broader discourses and impacts on restrictive immigration policies as well. I am interested in **how immigration and international capital influence local housing markets** and **the effects of housing policies introduced to address these local impacts**.
 
