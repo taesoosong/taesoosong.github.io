@@ -13,16 +13,16 @@ author_profile: true
 
 ## The Impacts of Housing Policy Contexts and Residential Mobility
 
-I study how **housing policy contexts impact residential mobility and broader geographies of opportunity and segregation**, particularly in high-cost metropolitan areas. Many worry that gentrification and high housing costs induce the displacement and eviction of these vulnerable groups while also limiting their access to high quality neighborhoods. Yet, our understanding of these dynamics is often limited to qualitative accounts due to the difficulties of measuring and analyzing adequate quantitative data. We also know little about how housing policy and planning interventions to address these issues, such as rezonings or (different types of) new housing supply, impacts housing access for these groups.
+I study how **housing policy contexts impact residential mobility and broader geographies of opportunity and segregation**, particularly in high-cost metropolitan areas. Many worry that gentrification and high housing costs induce the displacement and eviction of these vulnerable groups while also limiting their access to high quality neighborhoods. However, our understanding of these dynamics is often limited to qualitative accounts due to the difficulties of measuring and analyzing adequate quantitative data. We also know little about how housing policy and planning interventions to address these issues, such as rezonings or (different types of) new housing supply, impacts housing access for these groups.
 
 My research leverages **novel data sources and quantitative, geospatial methods** to study these dynamics, informing theory and policy. My recent and ongoing projects have explored:
-- How housing construction impacts displacement and exclusion of low- and moderate-income households in Los Angeles and San Francisco ([_Journal of American Planning Association_](https://doi.org/10.1080/01944363.2024.2319293), 2025, co-authored with Karen Chapple)
+- How housing construction impacts displacement and exclusion of low- and moderate-income households in Los Angeles and San Francisco ([_Journal of American Planning Association_](https://doi.org/10.1080/01944363.2024.2319293) with Karen Chapple)
   - Blog Post ([_Housing Matters_](https://housingmatters.urban.org/research-summary/does-new-housing-supply-affect-displacement) at Urban Institute)
   - Video Explainer ([_Urban Displacement Project_](https://www.youtube.com/watch?v=dsWAfFNVPTY))
-- How gentrification impacts housing choices of low-income households in the New York and San Francisco metropolitan areas ([_Urban Studies_](https://doi.org/10.1177/00420980241244699), 2024, co-authored with Karen Chapple)
-- How novel big data sources can help us better study household residential mobility ([_Cityscape_](https://www.jstor.org/stable/48799257), 2024, co-authored with Alex Ramiller, Madeleine Parker, and Karen Chapple)
-- Whether there are increasing investor purchases of naturally occurring affordable housing (NOAH) stocks in California and if they facilitate the displacement of renters (co-authored with Carolina Reid)
-- Whether upzonings in New York City facilitate the displacement of low-income renters (co-authored with Jenna Davis, Karen Chapple)
+- How gentrification impacts housing choices of low-income households in the New York and San Francisco metropolitan areas ([_Urban Studies_](https://doi.org/10.1177/00420980241244699) with Karen Chapple)
+- How novel big data sources can help us better study household residential mobility ([_Cityscape_](https://www.jstor.org/stable/48799257) with Alex Ramiller, Madeleine Parker, and Karen Chapple)
+- Whether there are increasing investor purchases of naturally occurring affordable housing (NOAH) stocks in California and if they facilitate the displacement of renters (with Carolina Reid)
+- Whether upzonings in New York City facilitate the displacement of low-income renters (with Jenna Davis, Karen Chapple)
 
 <p float="left">
   <img src="../images/oaklandwalls.png" width="32%"/>
@@ -30,11 +30,11 @@ My research leverages **novel data sources and quantitative, geospatial methods*
   <img src="../images/fairhousing.png" width="32%"/> 
 </p>
 
-## Heterogeneity of Asian American Housing Outcomes
+## Understanding Asian American Homeownership and Segregation
 
 I am deeply interested in the profound demographic shift towards **greater ethnic diversity in American cities** with a focus on Asian populations. Asian Americans are the fastest growing racial minority group in the United States. They are also a very diverse group, encompassing people with heritages from over twenty countries, and have the highest income inequality as a racial group. Although this trend requires an updated understanding of how policy and planning impact patterns of housing access and segregation that extends beyond the white-black binary paradigm, research on Asian American housing outcomes remain extremely scarce.
 
-My dissertation, **Rethinking ‘Asian’ in Housing: Ethnicity and Immigration in Asian American Homeownership**, challenges the treatment of Asians as a monolithic “other” within the Black-White binary paradigm, arguing that this categorization reinforces racial inequality by perpetuating the “model minority” stereotype. I argue that prior research has obscured significant housing disparities within the diverse pan-ethnic Asian American community, and that by paying attention to this diversity, we can observe important patterns of advantage and disadvantage.
+My dissertation challenges the treatment of Asians as a monolithic “other” within the Black-White binary paradigm, arguing that this categorization reinforces racial inequality by perpetuating the “model minority” stereotype. I argue that prior research has obscured significant housing disparities within the diverse pan-ethnic Asian American community, and that by paying attention to this diversity, we can observe important patterns of advantage and disadvantage.
 
 <p style="text-align: center;">
   <img src="../images/sfchinatown.png" width="32%" height="350px" style="vertical-align: middle;" />
