@@ -8,10 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-## About
 I am a Ph.D. Candidate in the Department of City and Regional Planning at University of California, Berkeley.
 
-My research examines how policy and planning interventions promote or mitigate housing stratification by income and race/ethnicity. I analyze how policy and market contexts impact residential mobility, neighborhood access, and homeownership, leveraging big data and computational methods. My dissertation builds on this approach but focuses specifically on Asian Americans, a diverse and rapidly growing population often presumed to have overcome structural barriers to housing access.
+I study how policy and planning interventions shape housing access and broader geographic patterns of segregation and opportunity. My research advances this field by integrating novel big data sources and computational methods to track residential mobility at a fine spatial scale, offering a more detailed view of neighborhood change. It also centers on the increasingly multiracial, multiethnic urban landscapes of the United States, where traditional frameworks of housing inequality and segregation often fall short. My dissertation focuses on Asian Americans—a diverse and rapidly growing population frequently presumed to have overcome structural barriers to housing access—to reveal how housing policy contexts continue to shape unequal outcomes. These insights aim to inform more equitable planning and housing policies.
 
 My current affiliations include:
 - Graduate Student Researcher, [Terner Center for Housing Innovation](https://ternercenter.berkeley.edu/)
