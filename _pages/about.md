@@ -10,11 +10,11 @@ redirect_from:
 
 I am a Ph.D. Candidate in the Department of City and Regional Planning at University of California, Berkeley.
 
-I study how policy and planning interventions shape housing access and broader geographic patterns of segregation and opportunity. My research advances scholarship on this topic in two major ways.
+I study how policy and planning interventions shape housing access and broader geographic patterns of segregation and opportunity. My research advances scholarship in two key ways.
 
-First, I integrate novel big data sources and computational methods to track residential mobility at a fine spatial scale, offering a more detailed view of neighborhood change.
+First, I integrate novel big data sources and computational methods to track residential mobility at a fine spatial scale, providing a more granular understanding of neighborhood change. These methodological innovations help illuminate whether market forces and interventions—such as gentrification, new housing construction, upzoning, and apartment turnover—promote more equitable outcomes or further marginalize vulnerable populations. My work has been published in the _Journal of the American Planning Association_, _Urban Studies_, and _Cityscape_.
 
-Second, I focus on the increasingly multiracial, multiethnic urban landscapes of the United States, where traditional frameworks of housing inequality and segregation often fall short. My dissertation focuses on Asian Americans—a diverse and rapidly growing population frequently presumed to have overcome structural barriers to housing access—to reveal how housing policy contexts continue to shape unequal outcomes. 
+Second, I focus on the increasingly multiracial and multiethnic urban landscapes of the United States, where conventional models of housing inequality and segregation often fall short. My dissertation studies homeownership and racial segregation among Asian Americans—a diverse and rapidly growing population often presumed to have overcome structural barriers to housing access—to uncover how policy contexts continue to shape unequal outcomes in complex and nuanced ways.
 
 My current affiliations include:
 - Graduate Student Researcher, [Terner Center for Housing Innovation](https://ternercenter.berkeley.edu/)
