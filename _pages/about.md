@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-### I am a Ph.D. Candidate in the Department of City and Regional Planning at University of California, Berkeley.
+#### I am a Ph.D. Candidate in the Department of City and Regional Planning at University of California, Berkeley.
 
 I study how policy and planning interventions shape housing access and broader geographic patterns of segregation and opportunity. My research advances scholarship in two key ways.
 
