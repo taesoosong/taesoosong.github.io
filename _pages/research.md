@@ -6,7 +6,7 @@ author_profile: true
 ---
 
   <div class="wordwrap">
-    My research lies at the intersection of housing and land use policy, big data and urban analytics, and immigration.
+    My research broadly lies at the intersection of housing and land use policy, residential mobility, neighborhood change and segregation, and race, ethnicity, and immigration. I primarily use quantitative and geospatial methods to investigate these topics, complemented by qualitative insights from interviews and discourse analysis.
     You can find my published research on 
     <a href="https://scholar.google.com/citations?user=xM5Rc-EAAAAJ&hl=en">my Google Scholar profile</a>.
   </div>
