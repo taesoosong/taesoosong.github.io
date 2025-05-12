@@ -67,6 +67,11 @@ While immigration debates have traditionally centered on labor market competitio
 - **Song, T.** "Anti-immigration and the Politics of Housing Affordability: Examining the Evolution and Housing Market Impacts of Foreign Buyer Taxes in British Columbia and Ontario."
 
 <p float="left">
+  <img src="../images/woman-anti-japanese-sign.jpg" width="48%" style="vertical-align: middle;"/> 
+    <img src="../images/alien_land_law_texas.jpg" width="48%" style="vertical-align: middle;"/> 
+</p>
+
+<p float="left">
   <img src="../images/queens_building.png" width="48%" style="vertical-align: middle;"/> 
     <img src="../images/chinese_realtor.png" width="48%" style="vertical-align: middle;"/> 
 </p>
