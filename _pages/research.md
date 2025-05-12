@@ -62,16 +62,11 @@ My dissertation challenges the treatment of Asians as a monolithic “other” w
 
 ### Racialization and Discrimination Against Asians in the Housing Market
 
-While immigration debates have traditionally centered on labor market competition, housing affordability has emerged as a growing site of politicization—often with a focus on Asian, particularly Chinese, immigrants. Countries such as Canada, Australia, and New Zealand have implemented taxes and restrictions aimed at limiting non-citizen home purchases, framing them as a response to rising housing costs. These policies have fueled broader public discourse and, in some cases, contributed to more restrictive immigration measures, especially in Anglosphere countries. My research examines how such policies reflect and reinforce xenophobic narratives targeting Asian immigrants, drawing on historical parallels such as the Alien Land Laws to highlight the persistence of racialized exclusion in housing markets. I also assess the if these restrictive policies serve broad public benefits using quantitative methods.
+While immigration debates have traditionally centered on labor market competition, housing affordability has emerged as a growing site of politicization—often with a focus on Asian, particularly Chinese, immigrants. Countries such as Canada, Australia, and New Zealand have implemented taxes and restrictions aimed at limiting non-citizen home purchases, framing them as a response to rising housing costs. These policies have fueled broader public discourse and, in some cases, contributed to more restrictive immigration measures, especially in Anglosphere countries. In the United States, Texas and Florida legislated property purchase bans targeting Chinese nationals, including immigrants in the country. My research examines how such policies both reflect and reinforce xenophobic narratives targeting Asian immigrants, drawing on historical parallels such as the Alien Land Laws to highlight the persistence of racialized exclusion in housing markets. I also assess the impacts of these restrictive policies on the housing market using quantitative methods.
 
 - **Song, T.** "Anti-immigration and the Politics of Housing Affordability: Examining the Evolution and Housing Market Impacts of Foreign Buyer Taxes in British Columbia and Ontario."
 
 <p float="left">
   <img src="../images/woman-anti-japanese-sign.jpg" width="48%" style="vertical-align: middle;"/> 
     <img src="../images/alien_land_law_texas.jpg" width="48%" style="vertical-align: middle;"/> 
-</p>
-
-<p float="left">
-  <img src="../images/queens_building.png" width="48%" style="vertical-align: middle;"/> 
-    <img src="../images/chinese_realtor.png" width="48%" style="vertical-align: middle;"/> 
 </p>
