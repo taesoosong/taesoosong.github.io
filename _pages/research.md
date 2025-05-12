@@ -20,7 +20,7 @@ I study how **policy contexts impact residential mobility and broader geographie
 
 Planners, policymakers, and advocates increasingly look to zoning reforms and other supply-side strategies to improve housing affordability, but these efforts often raise concerns about potential residential displacement and reduced access for low-income households. Yet such debates frequently oversimplify the complexities of policy design—overlooking questions about the appropriate intensity of upzoning or the types of housing suited to different neighborhoods. My research addresses the equity impacts of zoning and housing supply policies by using fine-grained residential mobility patterns to examine these dynamics.
 
-- Chapple, K. & **Song, T.** ["Can New Housing Supply Mitigate Displacement and Exclusion? Evidence from Los Angeles and San Francisco."](https://doi.org/10.1080/01944363.2024.2319293) Journal of the American Planning Association 91(1), 1-15.
+- Chapple, K. & **Song, T.** ["Can New Housing Supply Mitigate Displacement and Exclusion? Evidence from Los Angeles and San Francisco."](https://doi.org/10.1080/01944363.2024.2319293) _Journal of the American Planning Association 91_(1), 1-15.
   - Blog Post ([_Housing Matters_](https://housingmatters.urban.org/research-summary/does-new-housing-supply-affect-displacement) at Urban Institute)
   - Video Explainer ([_Urban Displacement Project_](https://www.youtube.com/watch?v=dsWAfFNVPTY))
 - Davis, J., **Song, T.** & Chapple, K. "How Does Upzoning Impact Residential Mobility Among Low-Income Households? Evidence from New York City."
@@ -29,14 +29,14 @@ Planners, policymakers, and advocates increasingly look to zoning reforms and ot
 
 For decades, scholars have debated how gentrification unfolds and whether it leads to the displacement of vulnerable groups. Yet quantitative and qualitative evidence often diverge, largely due to challenges in measuring displacement with existing data. Drawing on new data sources and improved measurement strategies, my research reveals the exclusionary effects of gentrification on low-income renters. It also highlights apartment turnover—particularly sales to investor buyers—as a key but underexamined mechanism driving neighborhood change and displacement in heated housing markets.
 
-- **Song, T.** & Chapple, K. ["Does Gentrification Constrain Housing Markets for Low-income Households? Evidence from Household Residential Mobility in the New York and San Francisco Metropolitan Areas."](https://doi.org/10.1177/00420980241244699) Urban Studies 61(13), 2603-2622.
+- **Song, T.** & Chapple, K. ["Does Gentrification Constrain Housing Markets for Low-income Households? Evidence from Household Residential Mobility in the New York and San Francisco Metropolitan Areas."](https://doi.org/10.1177/00420980241244699) _Urban Studies 61_(13), 2603-2622.
 - Reid, C. & **Song, T.** "Does Apartment Flipping Fuel Residential Displacement? Insights from Assessor and Mobility Data." 
 
 ### Big Data Analysis
 
 Urban planning scholarship is experiencing rapid growth in the use of big data to capture granular patterns often missed by traditional survey methods. My work explores how these data can be effectively used in empirical research while developing best practices to address data biases that may distort the representation of marginalized and underrepresented groups.
 
-- Ramiller A., **Song, T.**, Parker, M. & Chapple, K. ["Residential Mobility and Big Data: Assessing the Validity of Consumer Reference Datasets."](https://www.jstor.org/stable/48799257) Cityscape 26(3), 227-239.
+- Ramiller A., **Song, T.**, Parker, M. & Chapple, K. ["Residential Mobility and Big Data: Assessing the Validity of Consumer Reference Datasets."](https://www.jstor.org/stable/48799257) _Cityscape 26_(3), 227-239.
 
 <p float="left">
   <img src="../images/oaklandwalls.png" width="32%"/>
