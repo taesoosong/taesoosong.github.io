@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a Ph.D. Candidate in the Department of City and Regional Planning at University of California, Berkeley. My research aims to answer the following questions:
+I am a Ph.D. Candidate in the Department of City and Regional Planning at University of California, Berkeley. My research aims to answer the following:
 
 **How do policy and planning interventions impact households’ residential mobility and housing access, and how do these dynamics shape broader patterns of segregation and opportunity across urban areas?**
 
