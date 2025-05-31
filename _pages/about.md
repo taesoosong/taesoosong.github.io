@@ -13,7 +13,7 @@ I am a Ph.D. Candidate in the Department of City and Regional Planning at Univer
 
 **How do policy and planning interventions impact households’ residential mobility and housing access, and how do these dynamics shape broader patterns of segregation and opportunity across urban areas?**
 
-My research advances the scholarship on this topic in two key ways.
+My research advances the scholarship in two key ways.
 
 First, I integrate novel big data sources and computational methods to track residential mobility at a fine spatial scale, providing a more granular understanding of neighborhood change. These methodological innovations help illuminate whether market forces and interventions—such as gentrification, new housing construction, upzoning, and apartment turnover—promote more equitable outcomes or further marginalize vulnerable populations. My work has been published in the _Journal of the American Planning Association_, _Urban Studies_, and _Cityscape_.
 
