@@ -22,7 +22,7 @@ Second, I integrate novel big data sources and computational methods to track re
 
 My current affiliations include:
 - Graduate Student Researcher, [Terner Center for Housing Innovation](https://ternercenter.berkeley.edu/)
-- Graduate Fellow, [UC Berkeley Asian American Studies Research Center](https://issi.berkeley.edu/aarc) and [Institute for the Study of Societal Issues](https://issi.berkeley.edu/)
+- Graduate Fellow, [UC Berkeley Asian American Research Center](https://issi.berkeley.edu/aarc) and [Institute for the Study of Societal Issues](https://issi.berkeley.edu/)
 - Data Science Fellow, [UC Berkeley D-lab](https://dlab.berkeley.edu/)
 
 I also worked as a Graduate Student Researcher at the [Urban Displacement Project](https://www.urbandisplacement.org/). Prior to my doctoral program, I was a researcher at the [Seoul Institute](https://global.si.re.kr/), studying commercial gentrification and urban industries in downtown Seoul. 
