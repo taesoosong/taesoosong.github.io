@@ -15,9 +15,10 @@ I am a Ph.D. Candidate in the Department of City and Regional Planning at Univer
 
 My research advances the scholarship in two key ways.
 
-First, I integrate novel big data sources and computational methods to track residential mobility at a fine spatial scale, providing a more granular understanding of neighborhood change. These methodological innovations help illuminate whether market forces and interventions—such as gentrification, new housing construction, upzoning, and apartment turnover—promote more equitable outcomes or further marginalize vulnerable populations. My work has been published in the _Journal of the American Planning Association_, _Urban Studies_, and _Cityscape_.
+First, I focus on the increasingly multiracial and multiethnic urban landscapes of the United States, where conventional Black-White models of housing inequality and segregation often fall short. My dissertation studies homeownership and racial segregation among Asian Americans—a diverse and rapidly growing population often presumed to have overcome structural barriers to housing access—to uncover how policy contexts continue to shape unequal outcomes in nuanced ways. My dissertation is supported by the [Russell Sage Foundation's Dissertation Research Grant](https://www.russellsage.org/research/funding/dissertation-research-grants).
 
-Second, I focus on the increasingly multiracial and multiethnic urban landscapes of the United States, where conventional Black-White models of housing inequality and segregation often fall short. My dissertation studies homeownership and racial segregation among Asian Americans—a diverse and rapidly growing population often presumed to have overcome structural barriers to housing access—to uncover how policy contexts continue to shape unequal outcomes in nuanced ways.
+Second, I integrate novel big data sources and computational methods to track residential mobility at a fine spatial scale, providing a more granular understanding of neighborhood change. These methodological innovations help illuminate whether market forces and interventions—such as gentrification, new housing construction, upzoning, and apartment turnover—promote more equitable outcomes or further marginalize vulnerable populations. My work has been published in the _Journal of the American Planning Association_, _Urban Studies_, and _Cityscape_.
+
 
 My current affiliations include:
 - Graduate Student Researcher, [Terner Center for Housing Innovation](https://ternercenter.berkeley.edu/)
