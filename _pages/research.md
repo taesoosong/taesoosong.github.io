@@ -48,10 +48,11 @@ I am deeply interested in the ongoing demographic shift toward **greater ethnic 
 
 ### Asian American Homeownership and Segregation
 
-My dissertation challenges the treatment of Asians as a monolithic “other” within the Black-White binary paradigm, arguing that this categorization reinforces racial inequality by perpetuating the “model minority” stereotype. I argue that prior research has obscured significant housing disparities within the diverse pan-ethnic Asian American community, and that by paying attention to this diversity, we can observe important patterns of advantage and disadvantage. I also highlight how policy and planning continues to stratify Asian American housing outcomes despite their significant gains in socioeconomic attainment, complicating contemporary narratives around race and class in housing access.
+My dissertation challenges the treatment of Asians as a monolithic “other” within the Black-White binary paradigm, arguing that this categorization reinforces racial inequality by perpetuating the “model minority” stereotype. I argue that prior research has obscured significant housing disparities within the diverse pan-ethnic Asian American community, and that by paying attention to this diversity, we can observe important patterns of advantage and disadvantage. I also highlight how policy and planning continues to stratify Asian American housing outcomes despite their significant gains in socioeconomic attainment, complicating contemporary narratives around race and class in housing access. I rely on both quantitative and qualitative methods to study these dynamics.
 
 - **Song, T.** "Reassessing The Heterogeneity of Asian American Homeownership (2000-2019)."
 - **Song, T.** "How Does Suburban Housing Supply Shape Asian American Segregation?"
+- **Song, T.** "How Do Ethnic, Immigration, and Generational Differences Contribute to Fragmented Housing Experiences Among Asian Americans in the SF Bay Area?"
 
 <p style="text-align: center;">
   <img src="../images/sfchinatown.png" width="32%" height="350px" style="vertical-align: middle;" />
