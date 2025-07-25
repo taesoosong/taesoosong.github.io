@@ -52,7 +52,7 @@ My dissertation challenges the treatment of Asians as a monolithic “other” w
 
 - **Song, T.** "Reassessing The Heterogeneity of Asian American Homeownership (2000-2019)."
 - **Song, T.** "How Does Suburban Housing Supply Shape Asian American Segregation?"
-- **Song, T.** "How Do Ethnic, Immigration, and Generational Differences Contribute to Fragmented Housing Experiences Among Asian Americans in the SF Bay Area?"
+- **Song, T.** "How Do Ethnic, Immigration, and Generational Differences Contribute to Fragmented Housing Experiences Among Asian Americans in the San Francisco Bay Area?"
 
 <p style="text-align: center;">
   <img src="../images/sfchinatown.png" width="32%" height="350px" style="vertical-align: middle;" />
