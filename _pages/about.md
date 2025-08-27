@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a Ph.D. Candidate in the Department of City and Regional Planning at University of California, Berkeley.
+I am a Ph.D. Candidate in the Department of City and Regional Planning at University of California, Berkeley. **I am on the 2025-2026 job market.**
 
 **I study how housing and land use policies stratify housing access by race and income, and how these dynamics shape broader geographic patterns of segregation and integration.** My research advances the scholarship in two key ways.
 
