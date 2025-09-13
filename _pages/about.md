@@ -24,4 +24,4 @@ My current affiliations include:
 
 I also worked as a Graduate Student Researcher at the [Urban Displacement Project](https://www.urbandisplacement.org/). Prior to my doctoral program, I was a researcher at the [Seoul Institute](https://global.si.re.kr/), studying commercial gentrification and urban industries in downtown Seoul. 
 
-Please refer to my [**Curriculum Vitae**](https://taesoosong.github.io/academic_cv/song_taesoo_cv.pdf) for more information.
+Please refer to my [**Curriculum Vitae**](https://taesoosong.github.io/academic_cv/CV_SONG_Taesoo.pdf) for more information.
