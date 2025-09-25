@@ -11,7 +11,7 @@ redirect_from:
 
 I am a Ph.D. Candidate in the Department of City and Regional Planning at University of California, Berkeley. **I am on the 2025-2026 job market.**
 
-My research examines how housing and land-use governance structure inequality at the intersections of race, immigration, and class. Methodologically, I use quantitative and spatial analysis to integrate census data with administrative and commercial big data, generating new insights into the reproduction of housing stratification across scales. 
+My research examines **how housing and land-use governance structure inequality at the intersections of race, immigration, and class**. Methodologically, I use **quantitative and geospatial analysis** to integrate census data with administrative and commercial big data, generating new insights into the reproduction of housing stratification across scales. 
 
 My research advances the scholarship in two key ways.
 
