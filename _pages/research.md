@@ -50,7 +50,7 @@ I am deeply interested in the ongoing demographic shift toward **greater racial 
 
 My dissertation challenges the treatment of Asians as a monolithic “other” within the Black-White binary paradigm, arguing that this categorization reinforces racial inequality by perpetuating the “model minority” stereotype. I argue that prior research has obscured significant housing disparities within the diverse pan-ethnic Asian American community, and that by paying attention to this diversity, we can observe important patterns of advantage and disadvantage. I also highlight how land use and housing policy continues to stratify Asian American housing outcomes despite their significant gains in socioeconomic attainment, complicating contemporary narratives around race and class in housing access. I rely on both quantitative and qualitative methods to study these dynamics.
 
-- **Song, T.** "Reassessing The Heterogeneity of Asian American Homeownership (2000-2019)." _Under review_ at a journal.
+- **Song, T.** "Immigration, Housing Markets, and Ethnic Divergence in Asian American Homeownership, 2000–2019." _Under review_ at a journal.
 - **Song, T.** "How Does Suburban Housing Supply Shape Asian American Segregation?". _In preparation for journal submission_
 - **Song, T.** "Who Gets In, and on What Terms? Land Use Regimes and the Divergent Making of Asian American Suburbia"
 
