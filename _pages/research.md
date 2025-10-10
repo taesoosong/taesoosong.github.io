@@ -11,10 +11,8 @@ author_profile: true
     You can find my published research on  <a href="https://scholar.google.com/citations?user=xM5Rc-EAAAAJ&hl=en">my Google Scholar profile</a>.
   </div>
 
----
-
 ## Governing Access: Land Use and Housing Policy
-
+---
 I examine how land use and housing policy structure access to neighborhoods—both by limiting entry through local housing policies and through displacement and eviction, particularly in high-cost metropolitan areas. My research leverages **novel big data sources and quantitative, geospatial methods** to study these dynamics, informing theory and policy.
 
 ### Regulating Entry and Exit: Zoning, Growth Controls, and Housing Supply
@@ -45,10 +43,10 @@ Understanding processes of housing and neighborhood exclusion requires measuring
   <img src="../images/fairhousing.png" width="32%"/> 
 </p>
 
----
+
 
 ## Economic and Moral Boundaries of Belonging: Immigration, Race, and Housing
-
+---
 My other line of research examines how immigration reshapes—and is simultaneously shaped by—racialized boundaries of belonging in housing markets. Focusing on Asian populations in the United States and Canada, an underrepresented group in housing research, I trace how historical and contemporary land use regimes, housing policies, and racialized political and media narratives continue to reproduce differential inclusion and inequality across scales.
 
 ### Divergent Immigrant Incorporation in Housing Access
