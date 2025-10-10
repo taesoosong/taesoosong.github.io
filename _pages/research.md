@@ -9,6 +9,7 @@ author_profile: true
     My research broadly lies at the intersection of housing and land use policy, residential mobility, race/ethnicity and segregation, and immigration. I primarily use quantitative and geospatial methods to investigate these topics, complemented by qualitative insights from interviews and discourse analysis. You can find my published research on  <a href="https://scholar.google.com/citations?user=xM5Rc-EAAAAJ&hl=en">my Google Scholar profile</a>.
   </div>
 
+---
 
 ## Land Use and Housing Policy Residential Mobility
 
@@ -41,6 +42,8 @@ Urban planning scholarship is experiencing rapid growth in the use of big data t
   <img src="../images/toronto2.png" width="32%"/> 
   <img src="../images/fairhousing.png" width="32%"/> 
 </p>
+
+---
 
 ## Immigration and Cities
 
