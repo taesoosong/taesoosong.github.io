@@ -19,6 +19,7 @@ First, I focus on how the increasingly multiracial and multiethnic urban landsca
 
 Second, I integrate novel big data sources (e.g., consumer reference data, assessor records, local zoning and housing database) and computational methods to track residential mobility at a fine spatial scale, providing a more granular understanding of neighborhood change. These methodological innovations help illuminate whether market forces and interventions—such as gentrification, new housing construction, upzoning, and apartment turnover—promote more equitable outcomes or further marginalize vulnerable populations. My work has been published in the _Journal of the American Planning Association_, _Urban Studies_, and _Cityscape_.
 
+---
 My current affiliations include:
 - Graduate Student Researcher, [Terner Center for Housing Innovation](https://ternercenter.berkeley.edu/)
 - Senior Data Science & AI Fellow, [UC Berkeley D-Lab](https://dlab.berkeley.edu/)
@@ -26,4 +27,5 @@ My current affiliations include:
 
 I also worked as a Graduate Student Researcher at the [Urban Displacement Project](https://www.urbandisplacement.org/). Prior to my doctoral program, I was a researcher at the [Seoul Institute](https://global.si.re.kr/), studying commercial gentrification and urban industries in downtown Seoul. 
 
+---
 Please refer to my [**Curriculum Vitae**](https://taesoosong.github.io/academic_cv/CV_SONG_Taesoo.pdf) for more information.
