@@ -11,7 +11,7 @@ author_profile: true
 
 - *U.S. Housing, Planning, and Policy* — Summer 2024  
 - *Introduction to Urban Data Analytics* — Summer 2023  
-
+---
 ## **UC Berkeley D-Lab**
 
 **Senior AI & Data Science Fellow**  
@@ -34,7 +34,7 @@ In this role, I have helped **develop workshop curricula** and **instructed** a 
 ### **Excel Workshops**
 - *Excel Data Analysis Introduction* — Spring 2025  
 - *Excel Charts, Pivot Tables, and VLOOKUP* — Spring 2025  
-
+---
 ## **Yonsei University**
 
 **Teaching Assistant**
