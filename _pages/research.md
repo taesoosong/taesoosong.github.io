@@ -10,7 +10,7 @@ author_profile: true
   </div>
 
 
-## Housing and Land Use Policy and Residential Mobility
+## Land Use and Housing Policy Impacts on Residential Mobility
 
 I study how **policy contexts impact residential mobility and broader geographies of opportunity and segregation**, particularly in high-cost metropolitan areas. My research leverages **novel big data sources and quantitative, geospatial methods** to study these dynamics, informing theory and policy.
 
@@ -42,28 +42,28 @@ Urban planning scholarship is experiencing rapid growth in the use of big data t
   <img src="../images/fairhousing.png" width="32%"/> 
 </p>
 
-## Asian American Housing Experiences
+## Immigration and Cities
 
-I am deeply interested in the ongoing demographic shift toward **greater ethnic diversity in American cities**, with a particular focus on Asian populations. Asian Americans are the fastest-growing racial minority in the United States and represent a highly diverse group, with origins in over twenty countries and the highest income inequality of any racial group. Understanding their housing experiences requires moving beyond the traditional White–Black binary to examine how policy and planning shape outcomes in increasingly multiethnic cities. Yet despite their growth and diversity, research on Asian American housing outcomes remains extremely scarce.
+I am deeply interested in the ongoing demographic shift toward **greater ethnic diversity in U.S. and many other Global North cities**, with a particular focus on Asian populations. Within the U.S. context, Asian Americans are the fastest-growing racial minority in the United States and represent a highly diverse group, with origins in over twenty countries and the highest income inequality of any racial group. Understanding their housing experiences requires moving beyond the traditional White–Black binary to examine how policy and planning shape outcomes in increasingly multiethnic cities. Yet despite their growth and diversity, research on Asian American housing outcomes remains extremely scarce.
 
 ### Asian American Homeownership and Segregation
 
-My dissertation challenges the treatment of Asians as a monolithic “other” within the Black-White binary paradigm, arguing that this categorization reinforces racial inequality by perpetuating the “model minority” stereotype. I argue that prior research has obscured significant housing disparities within the diverse pan-ethnic Asian American community, and that by paying attention to this diversity, we can observe important patterns of advantage and disadvantage. I also highlight how policy and planning continues to stratify Asian American housing outcomes despite their significant gains in socioeconomic attainment, complicating contemporary narratives around race and class in housing access. I rely on both quantitative and qualitative methods to study these dynamics.
+My dissertation challenges the treatment of Asians as a monolithic “other” within the Black-White binary paradigm, arguing that this categorization reinforces racial inequality by perpetuating the “model minority” stereotype. I argue that prior research has obscured significant housing disparities within the diverse pan-ethnic Asian American community, and that by paying attention to this diversity, we can observe important patterns of advantage and disadvantage. I also highlight how land use and housing policy continues to stratify Asian American housing outcomes despite their significant gains in socioeconomic attainment, complicating contemporary narratives around race and class in housing access. I rely on both quantitative and qualitative methods to study these dynamics.
 
 - **Song, T.** "Reassessing The Heterogeneity of Asian American Homeownership (2000-2019)."
 - **Song, T.** "How Does Suburban Housing Supply Shape Asian American Segregation?"
-- **Song, T.** "How Do Ethnic, Immigration, and Generational Differences Contribute to Fragmented Housing Experiences Among Asian Americans in the San Francisco Bay Area?"
+- **Song, T.** "Who Gets In, and on What Terms? Land Use Regimes and the Divergent Making of Asian American Suburbia"
 
 <p style="text-align: center;">
   <img src="../images/sfchinatown.png" width="32%" height="350px" style="vertical-align: middle;" />
   <img src="../images/research/pown_null.png" width="64%" height="350px" style="vertical-align: middle;" />
 </p>
 
-### Racialization and Discrimination Against Asians in the Housing Market
+### Immigration and the Politics of Housing Affordability
 
-While immigration debates have traditionally centered on labor market competition, housing affordability has emerged as a growing site of politicization—often with a focus on Asian, particularly Chinese, immigrants. Countries such as Canada, Australia, and New Zealand have implemented taxes and restrictions aimed at limiting non-citizen home purchases, framing them as a response to rising housing costs. These policies have fueled broader public discourse and, in some cases, contributed to more restrictive immigration measures, especially in Anglosphere countries. In the United States, Texas and Florida legislated property purchase bans targeting Chinese nationals, including immigrants in the country. I am interested in how such policies both reflect and reinforce xenophobic narratives targeting Asian immigrants, drawing on historical parallels such as the Alien Land Laws to highlight the persistence of racialized exclusion in housing markets. I also assess the impacts of these restrictive policies on the housing market using quantitative methods.
+While immigration debates have traditionally centered on labor market competition, housing affordability has emerged as a growing site of politicization—often with a focus on Asian, particularly Chinese, immigrants. In particular, Anglosphere countries such as Canada, Australia, and New Zealand have implemented taxes and restrictions aimed at limiting non-citizen home purchases, framing them as a response to rising housing costs. These policies have fueled broader public discourse and, in some cases, contributed to more restrictive immigration measures, especially in Anglosphere countries. In the United States, Texas and Florida legislated property purchase bans targeting Chinese nationals, including immigrants in the country. I am interested in how such policies both reflect and reinforce xenophobic narratives targeting Asian immigrants, drawing on historical parallels such as the Alien Land Laws to highlight the persistence of racialized exclusion in housing markets. I also assess the impacts of these restrictive policies on the housing market using quantitative methods.
 
-- **Song, T.** "Anti-immigration and the Politics of Housing Affordability: Examining the Evolution and Housing Market Impacts of Foreign Buyer Taxes in British Columbia and Ontario."
+- **Song, T.** "Anti-immigration and the Politics of Housing Affordability: Examining the Evolution and Housing Market Impacts of Foreign Buyer Taxes in British Columbia and Ontario." Forthcoming at _Journal of Urban Affairs_
 
 <p float="left">
   <img src="../images/woman-anti-japanese-sign.jpg" width="48%" style="vertical-align: middle;"/> 
