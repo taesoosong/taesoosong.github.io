@@ -11,7 +11,7 @@ author_profile: true
 
 ---
 
-## Land Use and Housing Policy Residential Mobility
+## Land Use and Housing Policy Impacts on Residential Mobility
 
 I study how **policy contexts impact residential mobility and broader geographies of opportunity and segregation**, particularly in high-cost metropolitan areas. My research leverages **novel big data sources and quantitative, geospatial methods** to study these dynamics, informing theory and policy.
 
