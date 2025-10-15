@@ -10,7 +10,7 @@ author_profile: true
     My research examines how exclusion from housing and place—through barriers to entry, displacement, or constrained mobility—shapes urban inequality. I study how housing policy, land-use regulation, market dynamics, and racialized narratives interact to determine who can live where, under what conditions, and with what long-term consequences.
   </p>
   <p>
-    Methodologically, I draw on quantitative, geospatial, and qualitative approaches to trace the institutional mechanisms that reproduce segregation and selective inclusion across U.S. and global contexts. Together, my work situates housing and place within broader systems of racialized inclusion and exclusion—from land-use regimes to immigration law—showing how urban policy not only allocates housing but also defines belonging.
+    Methodologically, I draw on quantitative, geospatial, and qualitative approaches to trace the institutional mechanisms that reproduce segregation and selective inclusion across U.S. and other contexts. Together, my work situates housing and place within broader systems of racialized inclusion and exclusion—from land-use regimes to immigration law—showing how urban policy shapes moral and economic boundaries of belonging.
   </p>
   <p>
     You can find my published research on <a href="https://scholar.google.com/citations?user=xM5Rc-EAAAAJ&hl=en">my Google Scholar profile</a>.
