@@ -53,7 +53,7 @@ Understanding processes of housing and neighborhood exclusion requires measuring
 
 ## Economic and Moral Boundaries of Belonging: Immigration, Race, and Housing
 ---
-My other line of research examines how immigration reshapes—and is simultaneously shaped by—racialized boundaries of belonging in housing markets. Focusing on Asian populations in the United States and Canada, an underrepresented group in housing research, I trace how historical and contemporary land use regimes, housing policies, and racialized political and media narratives continue to reproduce differential inclusion and inequality across scales.
+My other line of research uses **mixed methods** to examine how immigration reshapes—and is simultaneously shaped by—racialized boundaries of belonging in housing markets. Focusing on Asian populations in the United States and Canada, an underrepresented group in housing research, I trace how historical and contemporary land use regimes, housing policies, and racialized political and media narratives continue to reproduce differential inclusion and inequality across scales.
 
 ### Divergent Immigrant Incorporation in Housing Access
 
