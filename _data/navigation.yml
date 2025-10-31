@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "CV"
+    url: /academic_cv/CV_SONG_Taesoo.pdf
+    
   - title: "Research"
     url: /research/
 
@@ -14,10 +17,7 @@ main:
         
   # - title: "Blog Posts"
   #   url: /year-archive/
-
-  - title: "CV"
-    url: /academic_cv/CV_SONG_Taesoo.pdf
-    
+  
   # - title: "CV"
   #   url: /cv/
     
