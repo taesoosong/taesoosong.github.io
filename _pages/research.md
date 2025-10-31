@@ -72,7 +72,7 @@ My dissertation challenges the treatment of Asians as a monolithic “other” w
 
 While immigration debates have traditionally centered on labor market competition, housing affordability has emerged as a growing site of politicization—often with a focus on Asian, particularly Chinese, immigrants. In particular, Anglosphere countries such as Canada, Australia, and New Zealand have implemented taxes and restrictions aimed at limiting non-citizen home purchases, framing them as a response to rising housing costs. These policies have fueled broader public discourse and, in some cases, contributed to more restrictive immigration measures, especially in Anglosphere countries. In the United States, Texas and Florida legislated property purchase bans targeting Chinese nationals, including immigrants in the country. I am interested in how such policies both reflect and reinforce racialized narratives of Asian immigrants, drawing on historical parallels such as the Alien Land Laws. I also quantitatively assess the impacts of these restrictive policies on the housing market.
 
-- **Song, T.** "Anti-immigration and the Politics of Housing Affordability: Examining the Evolution and Housing Market Impacts of Foreign Buyer Taxes in British Columbia and Ontario." Forthcoming at _Journal of Urban Affairs_
+- **Song, T.** ["Anti-immigration and the Politics of Housing Affordability: Examining the Evolution and Housing Market Impacts of Foreign Buyer Taxes in British Columbia and Ontario."](https://doi.org/10.1080/07352166.2025.2570754) _Journal of Urban Affairs_, 1-17.
 
 <p float="left">
   <img src="../images/woman-anti-japanese-sign.jpg" width="48%" style="vertical-align: middle;"/> 
