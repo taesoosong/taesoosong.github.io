@@ -1,3 +1,4 @@
+---
 permalink: /  
 title: "Hi, my name is Taesoo! 👋🏻"  
 excerpt: "About me"  
