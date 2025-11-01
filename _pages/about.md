@@ -12,7 +12,7 @@ I am a Ph.D. Candidate in City and Regional Planning at the University of Califo
 
 ---
 
-### Research Overview
+## Research Overview
 
 My research advances scholarship on how housing and land use governance produce and reinforce spatial inequality through two main lines of inquiry.
 
@@ -23,7 +23,7 @@ This research is supported by the [Russell Sage Foundation’s Dissertation Rese
 
 ---
 
-### Affiliations
+## Affiliations
 
 My research and teaching are grounded in interdisciplinary collaborations across housing, data science, and urban studies.
 
