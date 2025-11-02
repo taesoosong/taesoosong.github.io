@@ -14,7 +14,7 @@ I am a Ph.D. Candidate in City and Regional Planning at the University of Califo
 
 ## Research Overview
 
-My research advances scholarship on how housing and land use governance produce and reinforce spatial inequality through two main lines of inquiry.
+My research advances scholarship on how housing and land use governance shape urban inequality through two main lines of inquiry.
 
 **First**, I examine how increasingly multiracial city-regions in the United States and Canada, among other Global North countries, complicate traditional models of racial stratification and exclusion in housing. My dissertation analyzes homeownership and segregation among Asian Americans—a diverse and rapidly growing population often presumed to have overcome structural barriers to housing access—to reveal how policy contexts continue to shape unequal outcomes. This research is supported by the [Russell Sage Foundation’s Dissertation Research Grant](https://www.russellsage.org/research/funding/dissertation-research-grants), UC Berkeley’s [Institute for the Study of Societal Issues](https://issi.berkeley.edu/), and the [Michael B. Teitz Fellowship](https://ced.berkeley.edu/awards/michael-b-teitz-fellowship). One chapter is published in the _Journal of Urban Affairs_, with additional chapters under review and in preparation.
 
