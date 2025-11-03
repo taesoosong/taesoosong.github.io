@@ -11,6 +11,7 @@ redirect_from:
 I am a Ph.D. Candidate in City and Regional Planning at the University of California, Berkeley, and **on the 2025–2026 academic job market.** My research examines **how housing and land use governance structure inequality at the intersections of race, immigration, and class**, integrating quantitative and geospatial analysis with qualitative approaches to explain how institutions reproduce housing stratification across regions and communities.
 
 For more information about my research and publications, please see my [**Curriculum Vitae**](https://taesoosong.github.io/academic_cv/CV_SONG_Taesoo.pdf).
+
 ---
 
 ## Research Overview
