@@ -7,7 +7,7 @@ author_profile: true
 
   <div class="wordwrap">
   <p>
-    My research examines how exclusion from housing and place—through barriers to entry, displacement, or constrained mobility—shapes urban inequality. I study how housing policy, land-use regulation, market dynamics, and racialized narratives interact to determine who can live where, under what conditions, and with what long-term consequences.
+    My research examines how housing supply and the planning systems that shape it structure uneven access to housing and place. I study how housing policy, land-use regulation, market dynamics, and racialized narratives interact to determine who can live where, under what conditions, and with what long-term consequences.
   </p>
   <p>
     Methodologically, I draw on quantitative, geospatial, and qualitative approaches to trace the institutional mechanisms that reproduce segregation and selective inclusion across U.S. and other contexts. Together, my work situates housing and place within broader systems of racialized inclusion and exclusion—from land-use regimes to immigration law—showing how urban policy shapes moral and economic boundaries of belonging.
@@ -19,7 +19,7 @@ author_profile: true
 
 ## Governing Access: Land Use and Housing Policy
 ---
-I examine how land use and housing policy structure access to neighborhoods—both by limiting entry through local housing policies and through displacement and eviction, particularly in high-cost metropolitan areas. My research leverages **novel big data sources and quantitative, geospatial methods** to study these dynamics, informing theory and policy.
+I examine how land use and housing policy structure access to neighborhoods—both by limiting entry through local housing policies and through displacement and constrained mobility, particularly in suppy-constrained, high-cost metropolitan areas. My research leverages **novel big data sources and quantitative, geospatial methods** to study these dynamics, informing theory and policy.
 
 ### Regulating Entry and Exit: Zoning, Growth Controls, and Housing Supply
 
@@ -50,8 +50,7 @@ Understanding processes of housing and neighborhood exclusion requires measuring
 </p>
 
 
-
-## Economic and Moral Boundaries of Belonging: Immigration, Race, and Housing
+## Housing Inclusion and Exclusion among Immigrants
 ---
 My other line of research uses **mixed methods** to examine how immigration reshapes—and is simultaneously shaped by—racialized boundaries of belonging in housing markets. Focusing on Asian populations in the United States and Canada, an underrepresented group in housing research, I trace how historical and contemporary land use regimes, housing policies, and racialized political and media narratives continue to reproduce differential inclusion and inequality across scales.
 
