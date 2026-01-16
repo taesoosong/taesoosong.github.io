@@ -24,9 +24,9 @@ My research advances understanding of how housing supply shapes residential mobi
 
 ## Teaching Overview
 
-Teaching is central to my academic identity because it is how I have impact beyond my research and how I often identify new research questions and empirical puzzles through engagement with students.
+I teach courses in urban planning, housing, community development, and urban analytics across a range of instructional settings. Teaching is central to my academic identity because it is how I have impact beyond my research and how I often identify new research questions and empirical puzzles through engagement with students.
 
-I teach courses in urban planning, housing, community development, and urban analytics across a range of instructional settings. Please see my [teaching page](https://taesoosong.github.io/teaching/) for more information.
+Please see my [teaching page](https://taesoosong.github.io/teaching/) for more information.
 
 ## Affiliations
 
