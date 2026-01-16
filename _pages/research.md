@@ -7,10 +7,10 @@ author_profile: true
 
   <div class="wordwrap">
   <p>
-    My research examines how housing supply and the planning systems that shape it structure uneven access to housing and place. I study how housing policy, land-use regulation, market dynamics, and racialized narratives interact to determine who can live where, under what conditions, and with what long-term consequences.
+    My research examines how housing supply shapes access to housing and place by analyzing how housing policy, land use regulation, and market dynamics interact to determine who can live where, under what conditions, and with what consequences.
   </p>
   <p>
-    Methodologically, I draw on quantitative, geospatial, and qualitative approaches to trace the institutional mechanisms that reproduce segregation and selective inclusion across U.S. and other contexts. Together, my work situates housing and place within broader systems of racialized inclusion and exclusion—from land-use regimes to immigration law—showing how urban policy shapes moral and economic boundaries of belonging.
+    Methodologically, I use quantitative, geospatial, and qualitative approaches to trace the institutional mechanisms that reproduce segregation and selective inclusion across the United States and comparative contexts.
   </p>
   <p>
     You can find my published research on <a href="https://scholar.google.com/citations?user=xM5Rc-EAAAAJ&hl=en">my Google Scholar profile</a>.
@@ -19,11 +19,12 @@ author_profile: true
 
 ## Governing Access: Land Use and Housing Policy
 ---
-I examine how land use and housing policy structure access to neighborhoods—both by limiting entry through local housing policies and through displacement and constrained mobility, particularly in suppy-constrained, high-cost metropolitan areas. My research leverages **novel big data sources and quantitative, geospatial methods** to study these dynamics, informing theory and policy.
 
-### Regulating Entry and Exit: Zoning, Growth Controls, and Housing Supply
+My research examines how access to housing and neighborhoods is governed through housing supply. Methodologically, I leverage novel administrative and commercial data, combined with quantitative and geospatial approaches, to observe these processes at fine spatial and temporal scales and to connect policy and market changes to household level mobility outcomes.
 
-Planners, policymakers, and advocates increasingly look to zoning reforms and other supply-side strategies to improve housing affordability, but these efforts often raise concerns about potential residential displacement and reduced access for low-income households. Yet such debates frequently oversimplify the complexities of policy design—overlooking questions about the appropriate intensity of upzoning or the types of housing suited to different neighborhoods. My research addresses the equity impacts of zoning and housing supply policies by using fine-grained residential mobility patterns to examine these dynamics.
+### Regulating Entry and Exit through Housing Supply
+
+Planners and policymakers increasingly look to zoning reform and housing supply strategies to address affordability. Yet debates about supply often focus narrowly on production, overlooking how the intensity, location, and form of housing development, as well as changes to existing housing stock, shape access differently across neighborhoods and groups. My research examines how housing supply policies regulate entry and exit by shaping both opportunities for in migration and risks of displacement.
 
 - Chapple, K. & **Song, T.** (2025). ["Can New Housing Supply Mitigate Displacement and Exclusion? Evidence from Los Angeles and San Francisco."](https://doi.org/10.1080/01944363.2024.2319293) _Journal of the American Planning Association 91_(1), 1-15.
   - Blog Post ([_Housing Matters_](https://housingmatters.urban.org/research-summary/does-new-housing-supply-affect-displacement) at Urban Institute)
@@ -35,7 +36,7 @@ Planners, policymakers, and advocates increasingly look to zoning reforms and ot
 For decades, scholars have debated how gentrification unfolds and whether it leads to the displacement of vulnerable groups. Yet quantitative and qualitative evidence often diverge, largely due to challenges in measuring displacement with existing data. Drawing on new data sources and improved measurement strategies, my research reveals the exclusionary effects of gentrification on low-income renters and the property-level mechanism through which it unfolds.
 
 - **Song, T.** & Chapple, K. (2024). ["Does Gentrification Constrain Housing Markets for Low-income Households? Evidence from Household Residential Mobility in the New York and San Francisco Metropolitan Areas."](https://doi.org/10.1177/00420980241244699) _Urban Studies 61_(13), 2603-2622.
-- **Song, T.** & Reid, C. "The Implications of Naturally Occuring Affordable Housing (NOAH) Sales for Residential Mobility." Forthcoming at _Journal of American Planning Association_.
+- **Song, T.** & Reid, C. "The Implications of Naturally Occuring Affordable Housing (NOAH) Sales for Residential Mobility." Forthcoming in _Journal of American Planning Association_.
 
 ### Big Data, Residential Mobility, and Measuring Housing Exclusion
 
