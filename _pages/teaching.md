@@ -16,7 +16,7 @@ author_profile: true
 ## **UC Berkeley D-Lab**
 
 ---
-**Senior AI & Data Science Fellow**  
+**Senior Data Science & AI Fellow**  
 [UC Berkeley D-Lab](https://dlab.berkeley.edu/home) provides data science training and research support to students, staff, and faculty.  
 In this role, I have helped **develop workshop curricula** and **instructed** a range of applied data science workshops in R, Python, and Excel.
 
