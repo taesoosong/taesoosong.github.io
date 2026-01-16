@@ -39,7 +39,7 @@ In this role, I have helped **develop workshop curricula** and **instructed** a 
 - *Excel Data Analysis Introduction* — Spring 2025  
 - *Excel Charts, Pivot Tables, and VLOOKUP* — Spring 2025
 
-## **Other Workshops**
+### **Other Workshops**
 - *Git Fundamentals* — Spring 2026
 
 ## **Yonsei University**
