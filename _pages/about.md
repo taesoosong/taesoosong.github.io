@@ -31,4 +31,4 @@ My research and teaching are grounded in interdisciplinary collaborations across
 - Senior Data Science & AI Fellow, [UC Berkeley D-Lab](https://dlab.berkeley.edu/)  
 - Graduate Fellow, [UC Berkeley Asian American Research Center](https://issi.berkeley.edu/aarc)  
 
-Previously, I worked with the [Urban Displacement Project](https://www.urbandisplacement.org/) and the [Seoul Institute](https://global.si.re.kr/), where I studied commercial gentrification and urban industry transformation in downtown Seoul.
+I have also worked with the [Urban Displacement Project](https://www.urbandisplacement.org/) to support San Francisco and Los Angeles city governments in developing Racial and Social Equity Plans and Anti-Displacement Plans. Previously, I worked with [Seoul Institute](https://global.si.re.kr/), where I studied commercial gentrification and urban industry transformation in downtown Seoul.
