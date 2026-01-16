@@ -8,7 +8,7 @@ redirect_from:
   - /about.html  
 ---
 
-I am a Ph.D. Candidate in City and Regional Planning at the University of California, Berkeley, and **on the 2025–2026 academic job market.** My research examines **how housing markets and policies shape inequality at the intersections of class, race, and immigration**. I use both quantitative and qualitative approaches to explain how institutions reproduce housing stratification at scales.
+I am a Ph.D. Candidate in City and Regional Planning at the University of California, Berkeley, and **on the 2025–2026 academic job market.** My research examines **how housing supply shapes inequality at the intersections of class, race, and immigration**. I use both quantitative and qualitative approaches to explain how institutions reproduce housing stratification at scales.
 
 For more information about my research and publications, please see my [**Curriculum Vitae**](https://taesoosong.github.io/academic_cv/CV_SONG_Taesoo.pdf).
 
@@ -16,11 +16,12 @@ For more information about my research and publications, please see my [**Curric
 
 ## Research Overview
 
-My research advances scholarship on how housing markets and policies shape access to housing and place-based opportunities through two main lines of inquiry.
+My research advances understanding of how housing supply shapes residential mobility and segregation, with differential effects across groups, through two main lines of inquiry.
 
-**First**, I examine how increasingly multiracial city-regions in the United States and Canada, among other Global North countries, complicate traditional models of racial stratification and exclusion in housing. My dissertation analyzes homeownership and segregation among Asian Americans—a diverse and rapidly growing population often presumed to have overcome structural barriers to housing access—to reveal how policy contexts continue to shape unequal outcomes. This research is supported by the [Russell Sage Foundation’s Dissertation Research Grant](https://www.russellsage.org/research/grants/how-does-housing-supply-impact-asian-american-segregation), UC Berkeley’s [Institute for the Study of Societal Issues](https://issi.berkeley.edu/), and the [Michael B. Teitz Fellowship](https://ced.berkeley.edu/awards/michael-b-teitz-fellowship), among others. One chapter is published in the _Journal of Urban Affairs_, with additional chapters under review and in preparation.
+**First**, I integrate new housing, policy, and household data sources—such as consumer reference data, property assessor records, and local housing and zoning databases—with computational and geospatial methods to track how housing supply impacts residential mobility and neighborhood change at fine geographic and temporal scales. These analyses clarify how processes like gentrification, new housing construction, upzoning, and property sales shape access to housing and opportunity. My work has been published in the _Journal of the American Planning Association_, _Urban Studies_, and _Cityscape_.
 
-**Second**, I integrate new data sources—such as consumer reference data, property assessor records, and local housing and zoning databases—with computational and geospatial methods to track residential mobility and neighborhood change at fine geographic and temporal scales. These analyses clarify how processes like gentrification, new housing construction, and upzoning shape access to housing and opportunity. My work has been published in the _Journal of the American Planning Association_, _Urban Studies_, and _Cityscape_.
+**Second**, I examine how increasingly multiracial city-regions in the United States and Canada, among other Global North countries, complicate traditional models of racial stratification and exclusion in housing. My dissertation studies homeownership, segregation, and housing discrimination among Asian Americans—a diverse and rapidly growing population often presumed to have overcome structural barriers to housing access—to reveal how policy contexts continue to shape unequal outcomes. This research is supported by the [Russell Sage Foundation’s Dissertation Research Grant](https://www.russellsage.org/research/grants/how-does-housing-supply-impact-asian-american-segregation), UC Berkeley’s [Institute for the Study of Societal Issues](https://issi.berkeley.edu/), and the [Michael B. Teitz Fellowship](https://ced.berkeley.edu/awards/michael-b-teitz-fellowship), among others. One chapter is published in the _Journal of Urban Affairs_, with additional chapters under review and in preparation.
+
 
 ## Affiliations
 
