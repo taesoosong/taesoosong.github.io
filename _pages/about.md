@@ -22,6 +22,11 @@ My research advances understanding of how housing supply shapes residential mobi
 
 **Second**, I examine how increasingly multiracial city-regions in the United States and Canada, among other Global North countries, complicate traditional models of racial stratification and exclusion in housing. My dissertation studies homeownership, segregation, and housing discrimination among Asian Americans—a diverse and rapidly growing population often presumed to have overcome structural barriers to housing access—to reveal how policy contexts continue to shape unequal outcomes. This research is supported by the [Russell Sage Foundation’s Dissertation Research Grant](https://www.russellsage.org/research/grants/how-does-housing-supply-impact-asian-american-segregation), UC Berkeley’s [Institute for the Study of Societal Issues](https://issi.berkeley.edu/), and the [Michael B. Teitz Fellowship](https://ced.berkeley.edu/awards/michael-b-teitz-fellowship), among others. One chapter is published in the _Journal of Urban Affairs_, with additional chapters under review and in preparation.
 
+## Teaching Overview
+
+Teaching is central to my academic identity because it is how I have impact beyond my research and how I often identify new research questions and empirical puzzles through engagement with students.
+
+I teach courses in urban planning, housing, community development, and urban analytics across a range of instructional settings. Please see my [teaching page](https://taesoosong.github.io/teaching/) for more information.
 
 ## Affiliations
 
