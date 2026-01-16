@@ -25,9 +25,11 @@ In this role, I have helped **develop workshop curricula** and **instructed** a 
 - *R Data Wrangling* — Fall 2025  
 - *R Data Visualization* — Spring 2025  
 - *R Geospatial Fundamentals* — Fall 2024, Fall 2025  
-- *R Census Fundamentals* — Spring 2025  
-- *R SQL Fundamentals* — Spring 2025  
-- *R AI-Assisted Coding* — Fall 2025  
+- *R Census Data Fundamentals* — Spring 2025, Spring 2026
+- *R SQL Fundamentals* — Spring 2025, Spring 2026  
+- *R AI-Assisted Coding* — Fall 2025
+- *R Machine Learning with Tidymodels* — Spring 2026
+- *R and AI Tools* — Spring 2026  
 
 ### **Python Workshops**
 - *Python Geospatial Fundamentals* — Spring 2025  
@@ -35,7 +37,10 @@ In this role, I have helped **develop workshop curricula** and **instructed** a 
 
 ### **Excel Workshops**
 - *Excel Data Analysis Introduction* — Spring 2025  
-- *Excel Charts, Pivot Tables, and VLOOKUP* — Spring 2025  
+- *Excel Charts, Pivot Tables, and VLOOKUP* — Spring 2025
+
+## **Other Workshops**
+- *Git Fundamentals* — Spring 2026
 
 ## **Yonsei University**
 
