@@ -12,8 +12,6 @@ I am a Ph.D. Candidate in City and Regional Planning at the University of Califo
 
 For more information about my research and publications, please see my [**Curriculum Vitae**](https://taesoosong.github.io/academic_cv/CV_SONG_Taesoo.pdf).
 
----
-
 ## Research Overview
 
 My research advances understanding of how housing supply shapes residential mobility and segregation, with differential effects across groups, through two main lines of inquiry.
