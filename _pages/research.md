@@ -35,8 +35,8 @@ Planners and policymakers increasingly look to zoning reform and housing supply 
 
 For decades, scholars have debated how gentrification unfolds and whether it leads to the displacement of vulnerable groups. Yet quantitative and qualitative evidence often diverge, largely due to challenges in measuring displacement with existing data. Drawing on new data sources and improved measurement strategies, my research reveals the exclusionary effects of gentrification on low-income renters and the property-level mechanism through which it unfolds.
 
+- **Song, T.** & Reid, C. (2026). ["The Implications of Naturally Occuring Affordable Housing (NOAH) Sales for Residential Mobility."](https://doi.org/10.1080/01944363.2026.2618647) _Journal of American Planning Association_ 1-15.
 - **Song, T.** & Chapple, K. (2024). ["Does Gentrification Constrain Housing Markets for Low-income Households? Evidence from Household Residential Mobility in the New York and San Francisco Metropolitan Areas."](https://doi.org/10.1177/00420980241244699) _Urban Studies 61_(13), 2603-2622.
-- **Song, T.** & Reid, C. "The Implications of Naturally Occuring Affordable Housing (NOAH) Sales for Residential Mobility." Forthcoming in _Journal of American Planning Association_.
 
 ### Big Data, Residential Mobility, and Measuring Housing Exclusion
 
