@@ -8,7 +8,7 @@ redirect_from:
   - /about.html  
 ---
 
-I am a Ph.D. Candidate in City and Regional Planning at the University of California, Berkeley, and **on the 2025–2026 academic job market.** My research examines **how housing supply shapes inequality at the intersections of class, race, and immigration**. I use both quantitative and qualitative approaches to explain how institutions reproduce housing stratification at scales.
+I am a Ph.D. Candidate in City and Regional Planning at the University of California, Berkeley. My research examines **how housing supply shapes inequality at the intersections of class, race, and immigration**. I use both quantitative and qualitative approaches to explain how institutions reproduce housing stratification at scales.
 
 For more information about my research and publications, please see my [**Curriculum Vitae**](https://taesoosong.github.io/academic_cv/CV_SONG_Taesoo.pdf).
 
