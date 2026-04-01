@@ -7,10 +7,7 @@ author_profile: true
 
   <div class="wordwrap">
   <p>
-    My research examines how housing supply shapes access to housing and place by analyzing how housing policy, land use regulation, and market dynamics interact to determine who can live where, under what conditions, and with what consequences.
-  </p>
-  <p>
-    Methodologically, I use quantitative, geospatial, and qualitative approaches to trace the institutional mechanisms that reproduce segregation and selective inclusion across the United States and comparative contexts.
+    My research examines how housing supply shapes access to housing and place by analyzing how housing supply policies and market dynamics interact to determine who can live where, under what conditions, and with what consequences.
   </p>
   <p>
     You can find my published research on <a href="https://scholar.google.com/citations?user=xM5Rc-EAAAAJ&hl=en">my Google Scholar profile</a>.
@@ -29,7 +26,7 @@ Planners and policymakers increasingly look to zoning reform and housing supply 
 - Chapple, K. & **Song, T.** (2025). ["Can New Housing Supply Mitigate Displacement and Exclusion? Evidence from Los Angeles and San Francisco."](https://doi.org/10.1080/01944363.2024.2319293) _Journal of the American Planning Association 91_(1), 1-15.
   - Blog Post ([_Housing Matters_](https://housingmatters.urban.org/research-summary/does-new-housing-supply-affect-displacement) at Urban Institute)
   - Video Explainer ([_Urban Displacement Project_](https://www.youtube.com/watch?v=dsWAfFNVPTY))
-- Davis, J., **Song, T.** & Chapple, K. "How Does Upzoning Impact Residential Mobility Among Low-Income Households? Evidence from New York City." _Revised and resubmitted to a journal_.
+- Davis, J., **Song, T.** & Chapple, K. "How Does Upzoning Impact Residential Mobility Among Low-Income Households? Evidence from New York City." Forthcoming in _Housing Policy Debate_.
 
 ### Geography of Displacement: Gentrification and Neighborhood Change
 
