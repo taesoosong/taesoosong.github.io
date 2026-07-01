@@ -232,8 +232,9 @@ strong, b, .lede-intro strong, .prose strong { font-weight: 700; }
   .news-text { font-size: 16px; }
   .news-date { flex-basis: 64px; font-size: 15px; }
   .lede { flex-direction: column; gap: 28px; }
-  .lede-aside { flex-basis: auto; }
-  .avatar { width: 120px; }
+  .lede-aside { flex-basis: auto; display: flex; align-items: flex-start; gap: 18px; }
+  .avatar { width: 132px; flex-shrink: 0; margin-bottom: 0; }
+  .aside-text { flex: 1; min-width: 0; }
   .lede-headline { font-size: 32px; }
   .news-row { gap: 14px; }
   .page-title { font-size: 28px; }
