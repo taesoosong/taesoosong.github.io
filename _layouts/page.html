@@ -1,0 +1,20 @@
+---
+layout: base
+---
+<div class="page">
+  {% if page.sections %}
+  <nav class="page-rail" aria-label="On this page">
+    <p class="rail-label">{{ page.rail_label | default: "On this page" }}</p>
+    {% for s in page.sections %}
+    <a href="#{{ s.id }}">{{ s.title }}</a>
+    {% endfor %}
+  </nav>
+  {% endif %}
+
+  <div class="page-body">
+    {% unless page.hide_title %}<h1>{{ page.title }}</h1>{% endunless %}
+    <div class="prose">
+      {{ content }}
+    </div>
+  </div>
+</div>

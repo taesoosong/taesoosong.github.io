@@ -1,0 +1,67 @@
+# Single source of truth for publications — used by BOTH the Publications page
+# (grouped by year) and the Research page (filtered by `subtheme`).
+# `authors`, `title`, `venue` accept Markdown (**bold**, *italics*).
+# subtheme values: land-use | big-data | incorporation | narratives
+published:
+  - year: 2026
+    subtheme: supply-policy
+    authors: "Davis, J., **Song, T.** & Chapple, K."
+    title: "How Does Upzoning Impact Residential Mobility Among Low-Income Households? Evidence from New York City"
+    venue: "*Housing Policy Debate*, 1–21"
+    url: "https://doi.org/10.1080/10511482.2026.2649483"
+
+  - year: 2026
+    subtheme: neighborhoods
+    authors: "**Song, T.** & Reid, C."
+    title: "The Implications of Naturally Occurring Affordable Housing (NOAH) Sales for Residential Mobility"
+    venue: "*Journal of the American Planning Association*, 1–15"
+    url: "https://doi.org/10.1080/01944363.2026.2618647"
+
+  - year: 2025
+    subtheme: supply-policy
+    authors: "Chapple, K. & **Song, T.**"
+    title: "Can New Housing Supply Mitigate Displacement and Exclusion? Evidence from Los Angeles and San Francisco"
+    venue: "*Journal of the American Planning Association* 91(1), 1–15"
+    url: "https://doi.org/10.1080/01944363.2024.2319293"
+    links:
+      - text: "Housing Matters blog"
+        url: "https://housingmatters.urban.org/research-summary/does-new-housing-supply-affect-displacement"
+      - text: "Video explainer"
+        url: "https://www.youtube.com/watch?v=dsWAfFNVPTY"
+
+  - year: 2025
+    subtheme: narratives
+    authors: "**Song, T.**"
+    title: "Anti-immigration and the Politics of Housing Affordability: Examining the Evolution and Housing Market Impacts of Foreign Buyer Taxes in British Columbia and Ontario"
+    venue: "*Journal of Urban Affairs*, 1–17"
+    url: "https://doi.org/10.1080/07352166.2025.2570754"
+
+  - year: 2024
+    subtheme: neighborhoods
+    authors: "**Song, T.** & Chapple, K."
+    title: "Does Gentrification Constrain Housing Markets for Low-Income Households? Evidence from Household Residential Mobility in the New York and San Francisco Metropolitan Areas"
+    venue: "*Urban Studies* 61(13), 2603–2622"
+    url: "https://doi.org/10.1177/00420980241244699"
+
+  - year: 2024
+    subtheme: big-data
+    authors: "Ramiller, A., **Song, T.**, Parker, M. & Chapple, K."
+    title: "Residential Mobility and Big Data: Assessing the Validity of Consumer Reference Datasets"
+    venue: "*Cityscape* 26(3), 227–239"
+    url: "https://www.jstor.org/stable/48799257"
+
+working:
+  - subtheme: incorporation
+    authors: "**Song, T.**"
+    title: "Immigration, Housing Markets, and Ethnic Divergence in Asian American Homeownership, 2000–2019"
+    status: "Under review"
+
+  - subtheme: incorporation
+    authors: "**Song, T.**"
+    title: "How Does Suburban Housing Supply Shape Asian American Segregation?"
+    status: "In preparation"
+
+  - subtheme: demolition
+    authors: "**Song, T.**"
+    title: "What Counts as a Demolition and Redevelopment? Local Permit and Parcel Data Infrastructure and Measurement Choices"
+    status: "In preparation"

@@ -1,0 +1,9 @@
+{% for p in include.items %}
+{% capture cite %}{{ p.authors }}{% if p.year %} ({{ p.year }}){% endif %}. {% if p.url %}[{{ p.title }}.]({{ p.url }}){% else %}{{ p.title }}.{% endif %}{% if p.venue %} {{ p.venue }}.{% endif %}{% endcapture %}
+<div class="pub">
+<div class="pub-body">
+<p class="pub-cite">{{ cite | markdownify | remove: '<p>' | remove: '</p>' | strip }}{% if p.status %} <span class="pub-status">{{ p.status }}</span>{% endif %}</p>
+{% if p.links %}<p class="pub-links">{% for l in p.links %}<a href="{{ l.url }}">{{ l.text }}</a>{% unless forloop.last %} &middot; {% endunless %}{% endfor %}</p>{% endif %}
+</div>
+</div>
+{% endfor %}

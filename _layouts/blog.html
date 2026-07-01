@@ -1,0 +1,17 @@
+---
+layout: base
+---
+<div class="reading">
+  <h1 class="reading-title">{{ page.title }}</h1>
+  {% if page.intro %}<p class="reading-intro">{{ page.intro }}</p>{% endif %}
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+    <li class="post-item">
+      <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      <span class="post-date">{{ post.date | date: "%B %-d, %Y" }}</span>
+      {% if post.excerpt %}<p class="post-excerpt">{{ post.excerpt | strip_html | strip | truncatewords: 32 }}</p>{% endif %}
+    </li>
+    {% endfor %}
+  </ul>
+</div>

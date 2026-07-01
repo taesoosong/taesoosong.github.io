@@ -1,37 +1,23 @@
 ---
-permalink: /  
-title: "Hi, my name is Taesoo! 👋🏻"  
-excerpt: "About me"  
-author_profile: true  
-redirect_from:  
-  - /about/  
-  - /about.html  
+permalink: /
+layout: home
+title: "About"
+headline: "Hi, I'm Taesoo."
+description: "Taesoo Song — incoming Assistant Professor in Urban & Environmental Policy & Planning (SPIA) at Virginia Tech. Housing supply, race and immigration, and urban data."
+position:
+  - "Incoming Assistant Professor"
+  - "Urban & Environmental Policy & Planning"
+  - "School of Public and International Affairs"
+  - "Virginia Tech"
+redirect_from:
+  - /about/
+  - /about.html
 ---
 
-I am a Ph.D. Candidate in City and Regional Planning at the University of California, Berkeley. My research examines **how housing supply policies shape inequality at the intersections of class, race, and immigration**.
+I am an incoming Assistant Professor in the Urban & Environmental Policy & Planning (UEPP) program in the School of Public and International Affairs (SPIA) at Virginia Tech. I've recently earned my Ph.D. in City and Regional Planning at the University of California, Berkeley.
 
-For more information about my research and publications, please see my [**Curriculum Vitae**](https://taesoosong.github.io/academic_cv/CV_SONG_Taesoo.pdf).
+My research asks how housing supply—including both new construction and the ongoing transformation of the existing housing stock—shapes who gets to live where, and with what consequences for inequality. I pursue this across three lines of inquiry: (1) **housing supply and neighborhood change**: how housing supply and land use policy shape residential mobility and neighborhood change; (2) **race and immigration**: how they structure inclusion and exclusion in housing markets, especially among Asian Americans; and (3) **data infrastructure**: the big data, from consumer records to local building permits, needed to measure it all.
 
-## Research
+My work appears in the *Journal of the American Planning Association*, *Urban Studies*, *Housing Policy Debate*, *Cityscape*, and the *Journal of Urban Affairs*, and has been supported by the Russell Sage Foundation, among others.
 
-My research advances understanding of how housing supply policies shape residential mobility and segregation, with differential effects across groups, through two main lines of inquiry.
-
-**First**, I integrate new housing, policy, and household data sources—such as consumer reference data, property assessor records, building permits, and other local housing and zoning databases—with computational and geospatial methods to track how housing supply impacts residential mobility and neighborhood change. These analyses clarify how processes like gentrification, new housing construction, upzoning, and property sales shape where people live and move at fine geographic and temporal scales, revealing new insights. My work has been published in the _Journal of the American Planning Association_, _Urban Studies_, _Housing Policy Debate_, and _Cityscape_.
-
-**Second**, I examine how increasingly multiracial city-regions in the United States and Canada, among other Global North countries, complicate traditional models of racial stratification and exclusion in housing. My dissertation studies homeownership, segregation, and housing discrimination among Asian Americans—a diverse and rapidly growing population often presumed to have overcome structural barriers to housing access—to reveal how policy contexts continue to shape unequal outcomes. This research is supported by the [Russell Sage Foundation’s Dissertation Research Grant](https://www.russellsage.org/research/grants/how-does-housing-supply-impact-asian-american-segregation), UC Berkeley’s [Institute for the Study of Societal Issues](https://issi.berkeley.edu/), and the [Michael B. Teitz Fellowship](https://ced.berkeley.edu/awards/michael-b-teitz-fellowship), among others. One chapter is published in the _Journal of Urban Affairs_, with additional chapters under review and in preparation.
-
-## Teaching
-
-I teach courses in urban planning, housing, community development, and urban analytics across a range of instructional settings. Teaching is central to my academic identity because it is how I have impact beyond my research and how I often identify new research questions and empirical puzzles through engagement with students.
-
-Please see my [teaching page](https://taesoosong.github.io/teaching/) for more information.
-
-## Affiliations
-
-My research and teaching are grounded in interdisciplinary collaborations across housing, data science, and urban studies.
-
-- Graduate Student Researcher, [Terner Center for Housing Innovation](https://ternercenter.berkeley.edu/)  
-- Senior Data Science & AI Fellow, [UC Berkeley D-Lab](https://dlab.berkeley.edu/)  
-- Graduate Fellow, [UC Berkeley Asian American Research Center](https://issi.berkeley.edu/aarc)  
-
-I have also worked with the [Urban Displacement Project](https://www.urbandisplacement.org/) to support San Francisco and Los Angeles city governments in developing Racial and Social Equity Plans and Anti-Displacement Plans. Previously, I worked with [Seoul Institute](https://global.si.re.kr/), where I studied commercial gentrification and urban industry transformation in downtown Seoul.
+Previously, I was a Graduate Student Researcher at the [Terner Center for Housing Innovation](https://ternercenter.berkeley.edu/) and a Senior Data Science & AI Fellow at the [UC Berkeley D-Lab](https://dlab.berkeley.edu/). I have also worked with the [Urban Displacement Project](https://www.urbandisplacement.org/), supporting San Francisco and Los Angeles on racial-equity and anti-displacement plans, and with the [Seoul Institute](https://global.si.re.kr/) on commercial gentrification in Seoul.

@@ -1,0 +1,44 @@
+---
+layout: base
+---
+<section class="lede">
+  <aside class="lede-aside">
+    {% if site.author.avatar %}
+    <img class="avatar" src="{{ '/images/profile.jpg' | relative_url }}" alt="{{ site.author.name }}">
+    {% endif %}
+
+    <p class="aside-name">{{ site.author.name }}</p>
+
+    {% if page.position %}
+    <p class="aside-position">{% for line in page.position %}{{ line }}{% unless forloop.last %}<br>{% endunless %}{% endfor %}</p>
+    {% endif %}
+
+    <div class="aside-links">
+      {% if site.author.email %}<a href="mailto:{{ site.author.email }}" aria-label="Email"><i class="fa-solid fa-envelope" aria-hidden="true"></i></a>{% endif %}
+      {% if site.author.googlescholar %}<a href="{{ site.author.googlescholar }}" aria-label="Google Scholar"><i class="ai ai-google-scholar" aria-hidden="true"></i></a>{% endif %}
+      {% if site.author.orcid %}<a href="{{ site.author.orcid }}" aria-label="ORCID"><i class="ai ai-orcid" aria-hidden="true"></i></a>{% endif %}
+      {% if site.author.github %}<a href="https://github.com/{{ site.author.github }}" aria-label="GitHub"><i class="fa-brands fa-github" aria-hidden="true"></i></a>{% endif %}
+      {% if site.author.researchgate %}<a href="{{ site.author.researchgate }}" aria-label="ResearchGate"><i class="ai ai-researchgate" aria-hidden="true"></i></a>{% endif %}
+      {% if site.author.academia %}<a href="{{ site.author.academia }}" aria-label="Academia.edu"><i class="ai ai-academia" aria-hidden="true"></i></a>{% endif %}
+    </div>
+  </aside>
+
+  <div class="lede-main">
+    {% if page.headline %}<h1 class="lede-headline">{{ page.headline }}</h1>{% endif %}
+    <div class="lede-intro">
+      {{ content }}
+    </div>
+  </div>
+</section>
+
+{% if site.data.news and site.data.news.size > 0 %}
+<section class="news">
+  <p class="section-label">News</p>
+  {% for item in site.data.news %}
+  <div class="news-row">
+    <span class="news-date">{{ item.date }}</span>
+    <span class="news-text">{{ item.text | markdownify | remove: '<p>' | remove: '</p>' | strip }}</span>
+  </div>
+  {% endfor %}
+</section>
+{% endif %}

@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Taesoo Song"
 title_separator          : "-"
 name                     : &name "Taesoo Song"
-description              : &description "PhD Candidate, UC Berkeley"
+description              : &description "Incoming Assistant Professor, Virginia Tech (SPIA)"
 url                      : https://taesoosong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "taesoosong/taesoosong.github.io"
@@ -26,9 +26,9 @@ author:
   pronouns         : he/him
   bio              : "Urban/Housing Researcher and Educator"
   location         : "San Francisco, CA"
-  employer         : "UC Berkeley"
+  employer         : "Virginia Tech"
   uri              : # URL
-  email            : "taesoo.song@berkeley.edu" 
+  email            : "taesoo@vt.edu"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -37,6 +37,7 @@ author:
   orcid            : "http://orcid.org/0000-0002-0504-6353"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : https://www.researchgate.net/profile/Taesoo-Song
+  academia         : "https://berkeley.academia.edu/TaesooSong"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -205,12 +206,6 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
 
 
 # Defaults
@@ -220,12 +215,8 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+      layout: post
+      permalink: /blog/:year/:month/:title/
   # _pages
   - scope:
       path: ""
@@ -251,23 +242,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
 
 
 # Sass/SCSS

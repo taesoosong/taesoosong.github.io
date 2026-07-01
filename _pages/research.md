@@ -1,70 +1,78 @@
 ---
-layout: archive
+layout: page
 title: "Research"
 permalink: /research/
-author_profile: true
+description: "Research—Taesoo Song. Housing supply and neighborhood change, race and immigration, and data infrastructure."
+rail_label: "On this page"
+sections:
+  - id: overview
+    title: "Overview"
+  - id: supply
+    title: "Supply & neighborhoods"
+  - id: race
+    title: "Race & immigration"
+  - id: data
+    title: "Data infrastructure"
 ---
 
-  <div class="wordwrap">
-  <p>
-    My research examines how housing supply shapes access to housing and place by analyzing how housing supply policies and market dynamics interact to determine who can live where, under what conditions, and with what consequences.
-  </p>
-  <p>
-    You can find my published research on <a href="https://scholar.google.com/citations?user=xM5Rc-EAAAAJ&hl=en">my Google Scholar profile</a>.
-  </p>
-</div>
+My research asks how housing supply—including both new construction and the ongoing transformation of the existing housing stock—shapes *who gets to live where*, and with what consequences for inequality. I pursue this across three connected pillars. See my [full list of publications](/publications/) or my [Google Scholar profile](https://scholar.google.com/citations?user=xM5Rc-EAAAAJ&hl=en).
+{:.lead}
+{:#overview}
 
-## Governing Access: Land Use and Housing Policy
----
+## Housing supply and neighborhood change {#supply}
 
-My research examines how access to housing and neighborhoods is governed through housing supply. Methodologically, I leverage novel administrative and commercial data, combined with quantitative and geospatial approaches, to observe these processes at fine spatial and temporal scales and to connect policy and market changes to household level mobility outcomes.
+I examine how access to housing and neighborhoods is governed through housing supply and the everyday transformation of the existing housing stock. Methodologically, I leverage novel administrative and commercial data, combined with quantitative and geospatial approaches, to observe these processes at fine spatial and temporal scales and to connect policy, market, and housing-stock changes to household-level mobility outcomes.
 
-Planners and policymakers increasingly look to zoning reform and housing supply strategies to address affordability. Yet debates about supply often focus narrowly on production, overlooking how the intensity, location, and form of housing development, as well as changes to existing housing stock, shape access differently across neighborhoods and groups. My research examines how housing supply policies regulate entry and exit by shaping both opportunities for in migration and risks of displacement, drawing on new data sources and methodological approaches.
+### Neighborhood change, gentrification, and displacement
 
-- Davis, J., **Song, T.** & Chapple, K. ["How Does Upzoning Impact Residential Mobility Among Low-Income Households? Evidence from New York City."](https://doi.org/10.1080/10511482.2026.2649483) _Housing Policy Debate_, 1-21.
-- **Song, T.** & Reid, C. (2026). ["The Implications of Naturally Occuring Affordable Housing (NOAH) Sales for Residential Mobility."](https://doi.org/10.1080/01944363.2026.2618647) _Journal of American Planning Association_, 1-15.
-- Chapple, K. & **Song, T.** (2025). ["Can New Housing Supply Mitigate Displacement and Exclusion? Evidence from Los Angeles and San Francisco."](https://doi.org/10.1080/01944363.2024.2319293) _Journal of the American Planning Association 91_(1), 1-15.
-  - Blog Post ([_Housing Matters_](https://housingmatters.urban.org/research-summary/does-new-housing-supply-affect-displacement) at Urban Institute)
-  - Video Explainer ([_Urban Displacement Project_](https://www.youtube.com/watch?v=dsWAfFNVPTY))
-- **Song, T.** & Chapple, K. (2024). ["Does Gentrification Constrain Housing Markets for Low-income Households? Evidence from Household Residential Mobility in the New York and San Francisco Metropolitan Areas."](https://doi.org/10.1177/00420980241244699) _Urban Studies 61_(13), 2603-2622.
+One strand examines how neighborhood change—gentrification, the loss of unsubsidized affordable housing, and rising prices—reshapes who can stay and who is pushed out, tracing these dynamics through household residential mobility.
 
-### Big Data, Residential Mobility, and Measuring Housing Exclusion
+{% assign items = site.data.publications.published | where: "subtheme", "neighborhoods" %}
+{% include pub-list.html items=items %}
 
-Understanding processes of housing and neighborhood exclusion requires measuring who moves, who stays, and who is omitted from data. My methodological work evaluates new consumer and administrative datasets for capturing residential mobility and exclusionary dynamics at fine spatial scales, while developing best practices to address data biases that may distort the representation of marginalized and underrepresented groups.
+### Housing and land use policies
 
-- Ramiller A., **Song, T.**, Parker, M. & Chapple, K. (2024). ["Residential Mobility and Big Data: Assessing the Validity of Consumer Reference Datasets."](https://www.jstor.org/stable/48799257) _Cityscape 26_(3), 227-239.
+A second strand examines how explicit housing and land use policies—zoning reform, upzoning, and new construction—shape access and displacement risk. Debates about supply often focus narrowly on production, overlooking how the intensity, location, and form of development shape access differently across neighborhoods and groups; I ask when and where new supply mitigates or intensifies exclusion.
 
-<p float="left">
-  <img src="../images/oaklandwalls.png" width="32%"/>
-  <img src="../images/toronto2.png" width="32%"/> 
-  <img src="../images/fairhousing.png" width="32%"/> 
-</p>
+{% assign items = site.data.publications.published | where: "subtheme", "supply-policy" %}
+{% include pub-list.html items=items %}
 
+### Demolition and redevelopment
 
-## Housing Inclusion and Exclusion among Immigrants
----
-My other line of research uses **mixed methods** to examine how immigration reshapes—and is simultaneously shaped by—racialized boundaries of belonging in housing markets. Focusing on Asian populations in the United States and Canada, an underrepresented group in housing research, I trace how historical and contemporary land use regimes, housing policies, and racialized political and media narratives continue to reproduce differential inclusion and inequality across scales.
+A third strand turns from new construction to the transformation of the existing stock—the demolitions, teardowns, and redevelopment that quietly reshape neighborhoods. I ask what demolition and redevelopment actually become on the ground—what replaces what is torn down, where, and for whom—using building permit and parcel records, and taking seriously the measurement choices involved in studying redevelopment with local administrative data.
 
-### Divergent Immigrant Incorporation in Housing Access
+{% assign items = site.data.publications.working | where: "subtheme", "demolition" %}
+{% include pub-list.html items=items %}
 
-My dissertation challenges the treatment of Asians as a monolithic “other” within the Black-White binary paradigm, arguing that this categorization reinforces racial inequality by perpetuating the “model minority” stereotype. I argue that prior research has obscured significant housing disparities within the diverse pan-ethnic Asian American community, and that by paying attention to this diversity, we can observe divergent patterns of incorporation. I also highlight how land use and housing policy continues to stratify Asian American housing outcomes despite their significant gains in socioeconomic attainment, complicating contemporary narratives around race and class in housing access.
+<img class="figwide" src="/images/oaklandwalls.png" alt="Oakland streetscape">
 
-- **Song, T.** "Immigration, Housing Markets, and Ethnic Divergence in Asian American Homeownership, 2000–2019." _Under review at a journal_.
-- **Song, T.** "How Does Suburban Housing Supply Shape Asian American Segregation?". _In preparation for journal submission_.
-- **Song, T.** "Who Gets In, and on What Terms? Land Use Regimes and the Divergent Making of Asian American Suburbia"
+## Race, immigration, and housing {#race}
 
-<p style="text-align: center;">
-  <img src="../images/sfchinatown.png" width="32%" height="350px" style="vertical-align: middle;" />
-  <img src="../images/research/pown_null.png" width="64%" height="350px" style="vertical-align: middle;" />
-</p>
+This pillar uses **mixed methods** to examine how immigration reshapes—and is simultaneously shaped by—racialized boundaries of belonging in housing markets. Focusing on Asian populations in the United States and Canada, an underrepresented group in housing research, I trace how historical and contemporary land use regimes, housing policies, and racialized political and media narratives reproduce differential inclusion and inequality across scales.
 
-### Racialized Narratives and Legislating Housing Exclusion
+### Divergent immigrant incorporation in housing access
 
-While immigration debates have traditionally centered on labor market competition, housing affordability has emerged as a growing site of politicization—often with a focus on Asian, particularly Chinese, immigrants. In particular, Anglosphere countries such as Canada, Australia, and New Zealand have implemented taxes and restrictions aimed at limiting non-citizen home purchases, framing them as a response to rising housing costs. These policies have fueled broader public discourse and, in some cases, contributed to more restrictive immigration measures, especially in Anglosphere countries. In the United States, Texas and Florida legislated property purchase bans targeting Chinese nationals, including immigrants in the country. I am interested in how such policies both reflect and reinforce racialized narratives of Asian immigrants, drawing on historical parallels such as the Alien Land Laws. I also quantitatively assess the impacts of these restrictive policies on the housing market.
+My dissertation challenges the treatment of Asians as a monolithic "other" within the Black–White binary paradigm, arguing that this categorization reinforces racial inequality by perpetuating the "model minority" stereotype. I argue that prior research has obscured significant housing disparities within the diverse pan-ethnic Asian American community, and that by attending to this diversity, we can observe divergent patterns of incorporation. I also show how land use and housing policy continue to stratify Asian American housing outcomes despite significant gains in socioeconomic attainment, complicating contemporary narratives around race and class in housing access.
 
-- **Song, T.** (2025). ["Anti-immigration and the Politics of Housing Affordability: Examining the Evolution and Housing Market Impacts of Foreign Buyer Taxes in British Columbia and Ontario."](https://doi.org/10.1080/07352166.2025.2570754) _Journal of Urban Affairs_, 1-17.
+{% assign items = site.data.publications.working | where: "subtheme", "incorporation" %}
+{% include pub-list.html items=items %}
 
-<p float="left">
-  <img src="../images/woman-anti-japanese-sign.jpg" width="48%" style="vertical-align: middle;"/> 
-    <img src="../images/alien_land_law_texas.jpg" width="48%" style="vertical-align: middle;"/> 
-</p>
+<img class="figwide" src="/images/sfchinatown.png" alt="San Francisco Chinatown">
+
+### Racialized narratives and legislating housing exclusion
+
+While immigration debates have traditionally centered on labor market competition, housing affordability has emerged as a growing site of politicization—often with a focus on Asian, particularly Chinese, immigrants. Anglosphere countries such as Canada, Australia, and New Zealand have implemented taxes and restrictions aimed at limiting non-citizen home purchases, framing them as a response to rising housing costs. In the United States, Texas and Florida have legislated property-purchase bans targeting Chinese nationals, including immigrants in the country. I am interested in how such policies both reflect and reinforce racialized narratives of Asian immigrants, drawing on historical parallels such as the Alien Land Laws, and I quantitatively assess the impacts of these restrictive policies on the housing market.
+
+{% assign items = site.data.publications.published | where: "subtheme", "narratives" %}
+{% include pub-list.html items=items %}
+
+<img class="figwide" src="/images/woman-anti-japanese-sign.jpg" alt="Historical anti-Japanese housing sign">
+
+## Data infrastructure {#data}
+
+Understanding housing and neighborhood exclusion requires measuring who moves, who stays, and who is missed entirely. My methodological work evaluates new consumer and administrative datasets for capturing residential mobility and exclusionary dynamics at fine spatial scales, while developing best practices to address the data biases that can distort the representation of marginalized and underrepresented groups.
+
+I am extending this agenda to building permits and other local administrative data to study demolitions and property transformations—additions, alterations, and teardowns—and the planning and neighborhood conditions associated with them.
+
+{% assign items = site.data.publications.published | where: "subtheme", "big-data" %}
+{% include pub-list.html items=items %}

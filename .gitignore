@@ -10,3 +10,18 @@ Gemfile.lock
 # Ingore files created by npm
 node_modules
 package-lock.json
+
+# Local Ruby/Jekyll build environment (not part of the site)
+vendor/
+.bundle/
+Gemfile
+
+# Local editor/tooling
+.claude/
+.DS_Store
+**/.DS_Store
+*.Rhistory
+
+# CV is built and published by the separate academic_cv repo (project pages
+# at /academic_cv/). Keep a local copy for preview, but don't commit it here.
+academic_cv/
