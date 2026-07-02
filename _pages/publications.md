@@ -15,7 +15,6 @@ sections:
     title: "Under review & in prep"
 ---
 
-For the complete record, see my [Google Scholar profile](https://scholar.google.com/citations?user=xM5Rc-EAAAAJ&hl=en).
 {:.lead}
 
 {% assign pubs = site.data.publications.published %}

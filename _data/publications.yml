@@ -18,6 +18,13 @@ published:
     url: "https://doi.org/10.1080/01944363.2026.2618647"
 
   - year: 2025
+    subtheme: narratives
+    authors: "**Song, T.**"
+    title: "Anti-immigration and the Politics of Housing Affordability: Examining the Evolution and Housing Market Impacts of Foreign Buyer Taxes in British Columbia and Ontario"
+    venue: "*Journal of Urban Affairs*, 1–17"
+    url: "https://doi.org/10.1080/07352166.2025.2570754"
+
+  - year: 2025
     subtheme: supply-policy
     authors: "Chapple, K. & **Song, T.**"
     title: "Can New Housing Supply Mitigate Displacement and Exclusion? Evidence from Los Angeles and San Francisco"
@@ -29,12 +36,12 @@ published:
       - text: "Video explainer"
         url: "https://www.youtube.com/watch?v=dsWAfFNVPTY"
 
-  - year: 2025
-    subtheme: narratives
-    authors: "**Song, T.**"
-    title: "Anti-immigration and the Politics of Housing Affordability: Examining the Evolution and Housing Market Impacts of Foreign Buyer Taxes in British Columbia and Ontario"
-    venue: "*Journal of Urban Affairs*, 1–17"
-    url: "https://doi.org/10.1080/07352166.2025.2570754"
+  - year: 2024
+    subtheme: big-data
+    authors: "Ramiller, A., **Song, T.**, Parker, M. & Chapple, K."
+    title: "Residential Mobility and Big Data: Assessing the Validity of Consumer Reference Datasets"
+    venue: "*Cityscape* 26(3), 227–239"
+    url: "https://www.jstor.org/stable/48799257"
 
   - year: 2024
     subtheme: neighborhoods
@@ -42,13 +49,6 @@ published:
     title: "Does Gentrification Constrain Housing Markets for Low-Income Households? Evidence from Household Residential Mobility in the New York and San Francisco Metropolitan Areas"
     venue: "*Urban Studies* 61(13), 2603–2622"
     url: "https://doi.org/10.1177/00420980241244699"
-
-  - year: 2024
-    subtheme: big-data
-    authors: "Ramiller, A., **Song, T.**, Parker, M. & Chapple, K."
-    title: "Residential Mobility and Big Data: Assessing the Validity of Consumer Reference Datasets"
-    venue: "*Cityscape* 26(3), 227–239"
-    url: "https://www.jstor.org/stable/48799257"
 
 working:
   - subtheme: incorporation
