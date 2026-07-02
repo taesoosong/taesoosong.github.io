@@ -16,9 +16,9 @@ redirect_from:
 
 I am an incoming Assistant Professor in the Urban & Environmental Policy & Planning (UEPP) program in the School of Public and International Affairs (SPIA) at Virginia Tech.
 
-My research asks how housing supply—including both new construction and the ongoing transformation of the existing housing stock—shapes who gets to live where, and with what consequences for inequality.
+My research asks how housing supply shapes who gets to live where, and with what consequences for inequality.
 
-I pursue this across three lines of inquiry: (1) **housing supply and neighborhood change**: how housing supply and land use policy shape residential mobility and neighborhood change; (2) **race and immigration**: how they structure inclusion and exclusion in housing markets, especially among Asian Americans; and (3) **data infrastructure**: the big data, from consumer records to local building permits, needed to measure it all.
+I pursue this across three lines of inquiry: (1) **housing supply, neighborhoods, and access**: how supply-side housing and land use policies shape neighborhood change and residential mobility; (2) **race and immigration**: how they structure inclusion and exclusion in housing markets, especially among Asian Americans; and (3) **data infrastructure**: the big data, from consumer records to local building permits, needed to measure it all.
 
 My work appears in the *Journal of the American Planning Association*, *Urban Studies*, *Housing Policy Debate*, *Cityscape*, and the *Journal of Urban Affairs*, and has been supported by the Russell Sage Foundation, among others.
 
