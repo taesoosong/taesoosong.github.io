@@ -9,9 +9,14 @@ layout: base
 
     <div class="aside-text">
     <p class="aside-name">{{ site.author.name }}</p>
+    {% if site.author.pronouns %}<p class="aside-pronouns">{{ site.author.pronouns }}</p>{% endif %}
 
     {% if page.position %}
     <p class="aside-position">{% for line in page.position %}{{ line }}{% unless forloop.last %}<br>{% endunless %}{% endfor %}</p>
+    {% endif %}
+
+    {% if site.author.location %}
+    <p class="aside-location"><i class="fa-solid fa-location-dot" aria-hidden="true"></i> {{ site.author.location }}</p>
     {% endif %}
 
     <div class="aside-links">

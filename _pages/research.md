@@ -15,7 +15,7 @@ sections:
     title: "Data infrastructure"
 ---
 
-My research asks **how housing supply**—including both new construction and the ongoing transformation of the existing housing stock—**shapes who gets to live where, and with what consequences for inequality**. I pursue this across three connected pillars. You can find my [full list of publications](/publications/) or my [Google Scholar profile](https://scholar.google.com/citations?user=xM5Rc-EAAAAJ&hl=en).
+My research asks **how housing supply**—including both new construction and the ongoing transformation of the existing housing stock—**shapes who gets to live where, and with what consequences for inequality**. I pursue this across three connected pillars. You can find my [full list of publications](/publications/) or my [Google Scholar profile](https://scholar.google.com/citations?user=2VUTbVcAAAAJ&hl=en).
 {:.lead}
 {:#overview}
 

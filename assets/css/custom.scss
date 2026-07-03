@@ -63,7 +63,8 @@ a { color: var(--maroon); text-decoration: none; }
 .lede { display: flex; gap: 40px; align-items: flex-start; }
 .lede-aside { flex: 0 0 260px; }
 .avatar { width: 100%; height: auto; border-radius: 4px; display: block; margin-bottom: 14px; }
-.aside-name { font-size: 22px; font-weight: 500; color: var(--ink); line-height: 1.2; margin: 0 0 8px; }
+.aside-name { font-size: 22px; font-weight: 500; color: var(--ink); line-height: 1.2; margin: 0 0 3px; }
+.aside-pronouns { font-size: 13px; color: var(--muted); margin: 0 0 12px; }
 .aside-label {
   font-size: 14px;
   letter-spacing: 0.1em;
@@ -71,7 +72,9 @@ a { color: var(--maroon); text-decoration: none; }
   color: var(--faint);
   margin: 0 0 6px;
 }
-.aside-position { font-size: 14px; line-height: 1.5; color: var(--ink); margin: 0 0 16px; }
+.aside-position { font-size: 14px; line-height: 1.5; color: var(--ink); margin: 0 0 8px; }
+.aside-location { font-size: 14px; color: var(--ink); margin: 0 0 16px; display: flex; align-items: center; gap: 7px; }
+.aside-location i { color: var(--maroon); font-size: 13px; }
 .aside-links { display: flex; flex-wrap: wrap; gap: 16px; font-size: 19px; }
 .aside-links a { color: var(--maroon); }
 .aside-links a:hover { color: var(--orange); }
