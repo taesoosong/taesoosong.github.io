@@ -11,11 +11,11 @@ sections:
     title: "2025"
   - id: "y2024"
     title: "2024"
+  - id: "reviews"
+    title: "Book reviews"
   - id: "working"
     title: "Under review & in prep"
 ---
-
-{:.lead}
 
 {% assign pubs = site.data.publications.published %}
 {% assign total = pubs | size %}
@@ -34,6 +34,19 @@ sections:
 </div>
 </div>
 {% endfor %}
+
+{% if site.data.publications.reviews %}
+<h2 id="reviews">Book reviews</h2>
+{% for p in site.data.publications.reviews %}
+{% capture cite %}{{ p.authors }} ({{ p.year }}). {% if p.url %}[{{ p.title }}.]({{ p.url }}){% else %}{{ p.title }}.{% endif %} {{ p.venue }}.{% endcapture %}
+<div class="pub">
+<span class="pub-num"></span>
+<div class="pub-body">
+<p class="pub-cite">{{ cite | markdownify | remove: '<p>' | remove: '</p>' | strip }}</p>
+</div>
+</div>
+{% endfor %}
+{% endif %}
 
 <h2 id="working">Under review &amp; in preparation</h2>
 {% for p in site.data.publications.working %}
