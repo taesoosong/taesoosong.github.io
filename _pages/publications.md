@@ -3,7 +3,7 @@ layout: page
 title: "Publications"
 permalink: /publications/
 description: "Publications — Taesoo Song. Housing supply, residential mobility, segregation, and immigration."
-rail_label: "Jump to"
+rail_label: "Publications"
 sections:
   - id: "y2026"
     title: "2026"

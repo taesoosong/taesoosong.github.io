@@ -2,7 +2,6 @@
 permalink: /
 layout: home
 title: "About"
-headline: "Hi, I'm Taesoo."
 description: "Taesoo Song — Assistant Professor in Urban & Environmental Policy & Planning (SPIA) at Virginia Tech. Housing supply, race and immigration, and urban data."
 position:
   - "Assistant Professor"

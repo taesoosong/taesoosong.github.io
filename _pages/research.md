@@ -3,7 +3,7 @@ layout: page
 title: "Research"
 permalink: /research/
 description: "Research—Taesoo Song. Housing supply and neighborhood change, race and immigration, and data infrastructure."
-rail_label: "On this page"
+rail_label: "Research agenda"
 sections:
   - id: overview
     title: "Overview"
@@ -25,7 +25,7 @@ I examine how access to housing and neighborhoods is governed through housing su
 
 ### Neighborhood change, gentrification, and displacement
 
-I study how neighborhood change, including gentrification and persistent disinvestment, shapes who can stay at a place, who moves in, and who is pushed out by analyzing consumer big data that tracks their residential movements over time.
+I study how neighborhood change, including gentrification and persistent disinvestment, shapes who can stay at a place, who moves in, and who is pushed out by analyzing consumer big data that tracks their residential movements over time. I am also attentive to affordable housing preservation—how existing affordable units, especially unsubsidized housing, are retained or lost, and with what consequences for who can remain.
 
 {% assign items = site.data.publications.published | where: "subtheme", "neighborhoods" %}
 {% include pub-list.html items=items %}

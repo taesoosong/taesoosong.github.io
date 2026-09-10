@@ -5,6 +5,8 @@ permalink: /teaching/
 description: "Teaching — Taesoo Song. Urban planning, housing, and urban data analytics."
 rail_label: "Institutions"
 sections:
+  - id: vt
+    title: "Virginia Tech"
   - id: berkeley
     title: "UC Berkeley"
   - id: dlab
@@ -15,6 +17,12 @@ sections:
 
 I teach courses in urban planning, housing, community development, and urban analytics across a range of instructional settings.
 {:.lead}
+
+## Virginia Tech {#vt}
+
+**Instructor**
+
+- *Advanced Quantitative Techniques for Urban Research* — Fall 2026
 
 ## University of California, Berkeley {#berkeley}
 
