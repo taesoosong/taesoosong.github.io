@@ -1,17 +1,11 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve -l -H localhost`. If you change this file, please restart the 
-# server process.
+# Site-wide Jekyll configuration.
 
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "Taesoo Song"
 title_separator          : "-"
 name                     : &name "Taesoo Song"
-description              : &description "Incoming Assistant Professor, Virginia Tech (SPIA)"
+description              : &description "Assistant Professor of Urban and Environmental Policy and Planning at Virginia Tech. Housing supply, neighborhood change, race and immigration, and urban data."
 url                      : https://taesoosong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "taesoosong/taesoosong.github.io"
@@ -24,7 +18,7 @@ author:
   avatar           : "profile.png"
   name             : "Taesoo Song"
   pronouns         : he/him
-  bio              : "Urban/Housing Researcher and Educator"
+  bio              : "Housing researcher and urban data scholar"
   location         : "Arlington, VA"
   employer         : "Virginia Tech"
   uri              : # URL
@@ -209,9 +203,6 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
 
 
 # Defaults
@@ -234,15 +225,6 @@ defaults:
   - scope:
       path: ""
       type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _publications
-  - scope:
-      path: ""
-      type: publications
     values:
       layout: single
       author_profile: true

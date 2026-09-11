@@ -19,13 +19,12 @@ layout: base
     <p class="aside-location"><i class="fa-solid fa-location-dot" aria-hidden="true"></i> {{ site.author.location }}</p>
     {% endif %}
 
-    <div class="aside-links">
-      {% if site.author.email %}<a href="mailto:{{ site.author.email }}" aria-label="Email"><i class="fa-solid fa-envelope" aria-hidden="true"></i></a>{% endif %}
-      {% if site.author.googlescholar %}<a href="{{ site.author.googlescholar }}" aria-label="Google Scholar"><i class="ai ai-google-scholar" aria-hidden="true"></i></a>{% endif %}
-      {% if site.author.orcid %}<a href="{{ site.author.orcid }}" aria-label="ORCID"><i class="ai ai-orcid" aria-hidden="true"></i></a>{% endif %}
-      {% if site.author.github %}<a href="https://github.com/{{ site.author.github }}" aria-label="GitHub"><i class="fa-brands fa-github" aria-hidden="true"></i></a>{% endif %}
-      {% if site.author.researchgate %}<a href="{{ site.author.researchgate }}" aria-label="ResearchGate"><i class="ai ai-researchgate" aria-hidden="true"></i></a>{% endif %}
-      {% if site.author.academia %}<a href="{{ site.author.academia }}" aria-label="Academia.edu"><i class="ai ai-academia" aria-hidden="true"></i></a>{% endif %}
+    <div class="aside-links" aria-label="Profiles and contact">
+      {% if site.author.email %}<a href="mailto:{{ site.author.email }}">Email</a>{% endif %}
+      {% if site.author.googlescholar %}<a href="{{ site.author.googlescholar }}">Scholar</a>{% endif %}
+      {% if site.author.orcid %}<a href="{{ site.author.orcid }}">ORCID</a>{% endif %}
+      {% if site.author.github %}<a href="https://github.com/{{ site.author.github }}">GitHub</a>{% endif %}
+      {% if site.author.researchgate %}<a href="{{ site.author.researchgate }}">ResearchGate</a>{% endif %}
     </div>
     </div>
   </aside>
@@ -37,6 +36,24 @@ layout: base
     </div>
   </div>
 </section>
+
+{% if site.data.recent_work and site.data.recent_work.size > 0 %}
+<section class="recent-work" aria-labelledby="recent-work-title">
+  <div class="section-heading">
+    <p class="section-label" id="recent-work-title">Recent work</p>
+    <a href="{{ '/publications/' | relative_url }}">All publications <span aria-hidden="true">→</span></a>
+  </div>
+  <div class="work-grid">
+    {% for item in site.data.recent_work %}
+    <article class="work-card">
+      <p class="work-meta">{{ item.type }} <span>{{ item.year }}</span></p>
+      <h2><a href="{{ item.url }}">{{ item.title }}</a></h2>
+      <p class="work-venue">{{ item.venue }}</p>
+    </article>
+    {% endfor %}
+  </div>
+</section>
+{% endif %}
 
 {% if site.data.news and site.data.news.size > 0 %}
 <section class="news">

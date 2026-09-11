@@ -27,7 +27,7 @@ I examine how access to housing and neighborhoods is governed through housing su
 
 I study how neighborhood change, including gentrification and persistent disinvestment, shapes who can stay at a place, who moves in, and who is pushed out by analyzing consumer big data that tracks their residential movements over time. I am also attentive to affordable housing preservation—how existing affordable units, especially unsubsidized housing, are retained or lost, and with what consequences for who can remain.
 
-{% assign items = site.data.publications.published | where: "subtheme", "neighborhoods" %}
+{% assign items = site.data.publications.articles | where: "subtheme", "neighborhoods" %}
 {% include pub-list.html items=items %}
 
 <img class="figwide" src="/images/oaklandwalls.png" alt="Oakland streetscape">
@@ -36,7 +36,7 @@ I study how neighborhood change, including gentrification and persistent disinve
 
 Planners and policymakers are increasingly seeking housing and land use policies, such as zoning reforms, to expand the supply base and improve affordability and neighborhood access. However, these policies are also often met with concerns about gentrification and displacement. My research examines how the intensity, location, and form of development shape access differently across neighborhoods and groups, asking when and where new supply mitigates or intensifies housing exclusion.
 
-{% assign items = site.data.publications.published | where: "subtheme", "supply-policy" %}
+{% assign items = site.data.publications.articles | where: "subtheme", "supply-policy" %}
 {% include pub-list.html items=items %}
 
 <img class="figwide" src="/images/toronto2.png" alt="Construction activities in Toronto">
@@ -65,7 +65,7 @@ My dissertation challenges the treatment of Asians as a monolithic "other" withi
 
 While immigration debates have traditionally centered on labor market competition, housing affordability has emerged as a growing site of politicization—often with a focus on Asian, particularly Chinese, immigrants. Anglosphere countries such as Canada, Australia, and New Zealand have implemented taxes and restrictions aimed at limiting non-citizen home purchases, framing them as a response to rising housing costs. In the United States, Texas and Florida have legislated property-purchase bans targeting Chinese nationals, including immigrants in the country. I am interested in how such policies both reflect and reinforce racialized narratives of Asian immigrants, drawing on historical parallels such as the Alien Land Laws, and I quantitatively assess the impacts of these restrictive policies on the housing market.
 
-{% assign items = site.data.publications.published | where: "subtheme", "narratives" %}
+{% assign items = site.data.publications.articles | where: "subtheme", "narratives" %}
 {% include pub-list.html items=items %}
 
 <img class="figwide" src="/images/woman-anti-japanese-sign.jpg" alt="Historical anti-Japanese housing sign">
@@ -76,5 +76,5 @@ Understanding housing and neighborhood exclusion requires measuring who moves, w
 
 I am extending this agenda to building permits and other local administrative data that have significant potential for research, studying demolitions and property transformations as well as the planning and neighborhood conditions associated with them.
 
-{% assign items = site.data.publications.published | where: "subtheme", "big-data" %}
+{% assign items = site.data.publications.articles | where: "subtheme", "big-data" %}
 {% include pub-list.html items=items %}

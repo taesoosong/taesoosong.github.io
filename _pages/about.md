@@ -13,12 +13,18 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in the Urban & Environmental Policy & Planning (UEPP) program in the School of Public and International Affairs (SPIA) at Virginia Tech.
+I am an Assistant Professor in Urban & Environmental Policy & Planning at Virginia Tech's [School of Public and International Affairs](https://spia.vt.edu/index.html).
 
-My research asks how housing supply shapes who gets to live where, and with what consequences for inequality.
+My research examines how housing supply transformations shape urban inequality.
 
-I pursue this across three lines of inquiry: (1) **housing supply, neighborhoods, and access**: how supply-side housing and land use policies shape neighborhood change and residential mobility; (2) **race and immigration**: how they structure inclusion and exclusion in housing markets, especially among Asian Americans; and (3) **data infrastructure**: the big data, from consumer records to local building permits, needed to measure it all.
+I pursue this research through three connected areas:
 
-My work appears in the *Journal of the American Planning Association*, *Urban Studies*, *Housing Policy Debate*, *Cityscape*, and the *Journal of Urban Affairs*, and has been supported by the Russell Sage Foundation, among others.
+<ol class="research-index">
+  <li><span class="index-term">Housing supply</span><span>How do policies reshape housing supply—including new construction, redevelopment, and preservation of the existing affordable stock—and with what consequences for affordability and access to opportunity?</span></li>
+  <li><span class="index-term">Race / immigration</span><span>How do race and immigration structure housing opportunity, particularly for Asian Americans?</span></li>
+  <li><span class="index-term">Data infrastructure</span><span>How can different data sources be validated and used to study housing dynamics—and how do bias and representation shape what those data reveal?</span></li>
+</ol>
 
-I've earned my Ph.D. in City and Regional Planning at the University of California, Berkeley. Previously, I was a Graduate Student Researcher at the [Terner Center for Housing Innovation](https://ternercenter.berkeley.edu/) and a Senior Data Science & AI Fellow at the [UC Berkeley D-Lab](https://dlab.berkeley.edu/). I have also worked with the [Urban Displacement Project](https://www.urbandisplacement.org/), supporting San Francisco and Los Angeles on racial-equity and anti-displacement plans, and with the [Seoul Institute](https://global.si.re.kr/) on commercial gentrification in Seoul.
+My work appears in the *Journal of the American Planning Association*, *Urban Studies*, *Housing Policy Debate*, *Cityscape*, and the *Journal of Urban Affairs*. My research has been supported by the Russell Sage Foundation and other funders.
+
+I earned my Ph.D. in City and Regional Planning at UC Berkeley. Previously, I worked with the [Terner Center for Housing Innovation](https://ternercenter.berkeley.edu/), [UC Berkeley D-Lab](https://dlab.berkeley.edu/), [Urban Displacement Project](https://www.urbandisplacement.org/), and [Seoul Institute](https://global.si.re.kr/).
