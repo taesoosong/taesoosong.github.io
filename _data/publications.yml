@@ -1,7 +1,8 @@
 # Single source of truth for scholarship — used by BOTH the Publications page
 # and the Research page (filtered by subtheme).
 # `authors`, `title`, `venue` accept Markdown (**bold**, *italics*).
-# subtheme values: land-use | big-data | incorporation | narratives
+# subtheme values: supply-policy | neighborhoods | demolition | big-data |
+# incorporation | narratives | publications-only
 articles:
   - year: 2026
     subtheme: supply-policy
@@ -51,7 +52,7 @@ articles:
     url: "https://doi.org/10.1177/00420980241244699"
 
   - year: 2022
-    subtheme: neighborhoods
+    subtheme: publications-only
     authors: "Lee, S., **Song, T.** & Lim, U."
     title: "How Are Happy and Unhappy People Differently Affected by Their Local Environments? The Heterogeneous Relationship Between Happiness and Local Environments in Seoul, Korea"
     venue: "*Cities* 127, 103768"
