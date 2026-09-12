@@ -7,17 +7,15 @@ rail_label: "Scholarship"
 sections:
   - id: "articles"
     title: "Journal articles"
-  - id: "policy"
-    title: "Policy briefs"
   - id: "reviews"
     title: "Book reviews"
+  - id: "policy"
+    title: "Policy briefs"
   - id: "public"
     title: "Public scholarship"
   - id: "working"
     title: "Work in progress"
 ---
-
-<p class="lead">Research on housing supply, neighborhood change, immigration, and the data used to understand cities.</p>
 
 {% assign articles = site.data.publications.articles %}
 {% assign total = articles | size %}
@@ -34,14 +32,14 @@ sections:
 </div>
 {% endfor %}
 
-<h2 id="policy">Policy briefs</h2>
-{% include pub-list.html items=site.data.publications.policy %}
-
 <h2 id="reviews">Book reviews</h2>
-{% include pub-list.html items=site.data.publications.reviews %}
+{% include pub-list.html items=site.data.publications.reviews numbered=true %}
+
+<h2 id="policy">Policy briefs</h2>
+{% include pub-list.html items=site.data.publications.policy numbered=true %}
 
 <h2 id="public">Public scholarship</h2>
-{% include pub-list.html items=site.data.publications.public_scholarship %}
+{% include pub-list.html items=site.data.publications.public_scholarship numbered=true %}
 
 <h2 id="working">Work in progress</h2>
-{% include pub-list.html items=site.data.publications.working %}
+{% include pub-list.html items=site.data.publications.working numbered=true %}

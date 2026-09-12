@@ -20,9 +20,9 @@ My research examines how housing supply transformations shape urban inequality.
 I pursue this research through three connected areas:
 
 <ol class="research-index">
-  <li><span class="index-term">Housing supply</span><span>How do policies reshape housing supply—including new construction, redevelopment, and preservation of the existing affordable stock—and with what consequences for affordability and access to opportunity?</span></li>
-  <li><span class="index-term">Race / immigration</span><span>How do race and immigration structure housing opportunity, particularly for Asian Americans?</span></li>
-  <li><span class="index-term">Data infrastructure</span><span>How can different data sources be validated and used to study housing dynamics—and how do bias and representation shape what those data reveal?</span></li>
+  <li><span class="index-term">Housing supply</span><span>How do policies shape housing supply—including new construction, redevelopment, and preservation of the existing affordable stock—and with what consequences for affordability and access to opportunity?</span></li>
+  <li><span class="index-term">Race / immigration</span><span>How do race and immigration structure housing outcomes, particularly for Asian Americans?</span></li>
+  <li><span class="index-term">Data infrastructure</span><span>How can different data sources be validated and used to study housing dynamics?</span></li>
 </ol>
 
 My work appears in the *Journal of the American Planning Association*, *Urban Studies*, *Housing Policy Debate*, *Cityscape*, and the *Journal of Urban Affairs*. My research has been supported by the Russell Sage Foundation and other funders.
