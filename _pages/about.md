@@ -2,10 +2,10 @@
 permalink: /
 layout: home
 title: "About"
-description: "Taesoo Song — Assistant Professor in Urban & Environmental Policy & Planning (SPIA) at Virginia Tech. Housing supply, race and immigration, and urban data."
+description: "Taesoo Song — Assistant Professor in Urban and Environmental Policy and Planning (SPIA) at Virginia Tech. Housing supply, race and immigration, and urban data."
 position:
   - "Assistant Professor"
-  - "Urban & Environmental Policy & Planning"
+  - "Urban and Environmental Policy and Planning"
   - "School of Public and International Affairs"
   - "Virginia Tech"
 redirect_from:
@@ -13,11 +13,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in Urban & Environmental Policy & Planning at Virginia Tech's [School of Public and International Affairs](https://spia.vt.edu/index.html).
+I am an Assistant Professor in Urban and Environmental Policy and Planning at Virginia Tech's [School of Public and International Affairs](https://spia.vt.edu/index.html).
 
-My research examines how housing supply transformations shape urban inequality.
-
-I pursue this research through three connected areas:
+My research examines how housing supply transformations shape urban inequality. I pursue this research through three connected areas:
 
 <ol class="research-index">
   <li><span class="index-term">Housing supply</span><span>How do policies shape housing supply—including new construction, redevelopment, and preservation of the existing affordable stock—and with what consequences for affordability and access to opportunity?</span></li>

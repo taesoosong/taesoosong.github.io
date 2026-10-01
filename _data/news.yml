@@ -1,5 +1,9 @@
 # Homepage news / updates. Newest first. Keep entries terse.
 # `text` accepts Markdown (links, *italics*). Adjust dates/wording freely.
+- date: "Oct 2026"
+  year: 2026
+  text: "I will be presenting research on affordable housing preservation at a Terner Center for Housing Innovation webinar ([*When NOAH Changes Hands: Scaling up Strategies for Long-Term Affordability*](https://ternercenter.berkeley.edu/blog/when-noah-changes-hands-scaling-up-strategies-for-long-term-affordability/)) and at the Association of Collegiate Schools of Planning (ACSP) Annual Conference in Pittsburgh."
+
 - date: "Sep 2026"
   year: 2026
   text: "New policy brief, [*Foreign Buyer Taxes and the Rental Affordability Gap*](https://schoolofcities.github.io/posts/foreign-buyer-tax-vancouver-toronto/), published by the School of Cities at the University of Toronto."

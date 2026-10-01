@@ -18,11 +18,11 @@ articles:
     venue: "*Journal of the American Planning Association* 92(3), 360–374"
     url: "https://doi.org/10.1080/01944363.2026.2618647"
 
-  - year: 2025
+  - year: 2026
     subtheme: narratives
     authors: "**Song, T.**"
     title: "Anti-immigration and the Politics of Housing Affordability: Examining the Evolution and Housing Market Impacts of Foreign Buyer Taxes in British Columbia and Ontario"
-    venue: "*Journal of Urban Affairs*, 1–18"
+    venue: "*Journal of Urban Affairs* 48(9), 2813–2830"
     url: "https://doi.org/10.1080/07352166.2025.2570754"
 
   - year: 2025
@@ -59,6 +59,11 @@ articles:
     url: "https://doi.org/10.1016/j.cities.2022.103768"
 
 working:
+  - subtheme: demolition
+    authors: "Ramiller, A. & **Song, T.**"
+    title: "Rezoning and Property Conversion: Alternative Pathways to Infill Housing in Three U.S. Cities"
+    status: "In preparation"
+
   - subtheme: neighborhoods
     authors: "**Song, T.**"
     title: "Naturally Occurring Affordable Housing (NOAH) for Sale: Renovation-Led Repositioning and the Erosion of Rent-Stabilized Apartments in New York City"
