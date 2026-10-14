@@ -180,6 +180,7 @@ a { color: var(--maroon); text-decoration: none; }
 }
 .work-card h2 a { color: var(--ink); }
 .work-card h2 a:hover { color: var(--maroon); }
+.work-award { margin: 8px 0 0; color: var(--maroon); font-size: 14px; font-weight: 600; line-height: 1.4; }
 .work-venue { margin: 0; color: var(--muted); font-size: 14px; line-height: 1.4; }
 
 /* ---- interior page header ---- */
@@ -259,6 +260,9 @@ a { color: var(--maroon); text-decoration: none; }
 .pub-links { margin: 4px 0 0; font-size: 14px; }
 .pub-links a { color: var(--muted); border-bottom: 1px solid var(--rule); }
 .pub-links a:hover { color: var(--ink); border-bottom-color: var(--orange); }
+.pub-award { margin: 4px 0 0; font-size: 14px; font-weight: 600; color: var(--maroon); }
+.prose .pub-cite:has(+ .pub-award) { margin-bottom: 4px; }
+.prose .pub-award { margin: 0 0 18px; }
 .pub-status { color: var(--faint); font-style: italic; font-size: 14px; white-space: nowrap; }
 
 /* ---- blog: reading column, post list, post ---- */

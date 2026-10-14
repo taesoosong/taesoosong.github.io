@@ -27,6 +27,7 @@ sections:
 <span class="pub-num">{{ num }}.</span>
 <div class="pub-body">
 <p class="pub-cite">{{ cite | markdownify | remove: '<p>' | remove: '</p>' | strip }}</p>
+{% if p.award %}<p class="pub-award"><span aria-hidden="true">★</span> {{ p.award }}</p>{% endif %}
 {% if p.links %}<p class="pub-links">{% for l in p.links %}<a href="{{ l.url }}">{{ l.text }}</a>{% unless forloop.last %} &middot; {% endunless %}{% endfor %}</p>{% endif %}
 </div>
 </div>

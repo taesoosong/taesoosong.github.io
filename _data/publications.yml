@@ -1,5 +1,5 @@
-# Single source of truth for scholarship — used by BOTH the Publications page
-# and the Research page (filtered by subtheme).
+# Single source of truth for scholarship — used by the Publications page.
+# (`subtheme` is kept for grouping; the Research page no longer lists pubs.)
 # `authors`, `title`, `venue` accept Markdown (**bold**, *italics*).
 # subtheme values: supply-policy | neighborhoods | demolition | big-data |
 # incorporation | narratives | publications-only
@@ -17,6 +17,7 @@ articles:
     title: "The Implications of Naturally Occurring Affordable Housing (NOAH) Sales for Residential Mobility"
     venue: "*Journal of the American Planning Association* 92(3), 360–374"
     url: "https://doi.org/10.1080/01944363.2026.2618647"
+    award: "Winner, 2026 JAPA Article of the Year"
 
   - year: 2026
     subtheme: narratives
@@ -66,7 +67,7 @@ working:
 
   - subtheme: neighborhoods
     authors: "**Song, T.**"
-    title: "Naturally Occurring Affordable Housing (NOAH) for Sale: Renovation-Led Repositioning and the Erosion of Rent-Stabilized Apartments in New York City"
+    title: "Naturally Occurring Affordable Housing (NOAH) Sales and Renovation: Evidence from New York City's Rent-Stabilized Apartments"
     status: "In preparation"
 
   - subtheme: demolition

@@ -49,6 +49,7 @@ layout: base
       <p class="work-meta">{{ item.type }} <span>{{ item.year }}</span></p>
       <h2><a href="{{ item.url }}">{{ item.title }}</a></h2>
       <p class="work-venue">{{ item.venue }}</p>
+      {% if item.award %}<p class="work-award"><span aria-hidden="true">★</span> {{ item.award }}</p>{% endif %}
     </article>
     {% endfor %}
   </div>
