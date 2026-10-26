@@ -17,7 +17,7 @@ articles:
     title: "The Implications of Naturally Occurring Affordable Housing (NOAH) Sales for Residential Mobility"
     venue: "*Journal of the American Planning Association* 92(3), 360–374"
     url: "https://doi.org/10.1080/01944363.2026.2618647"
-    award: "Winner, 2026 JAPA Article of the Year"
+    award: "2026 JAPA Article of the Year"
 
   - year: 2026
     subtheme: narratives
@@ -96,10 +96,16 @@ policy:
   - year: 2026
     authors: "**Song, T.**"
     title: "Foreign Buyer Taxes and the Rental Affordability Gap"
-    venue: "School of Cities, University of Toronto, Policy Brief No. 06, August 2026"
+    venue: "School of Cities, University of Toronto, Policy Brief No. 06, September 8, 2026"
     url: "https://schoolofcities.github.io/posts/foreign-buyer-tax-vancouver-toronto/"
 
 public_scholarship:
+  - year: 2026
+    authors: "**Song, T.** & Reid, C."
+    title: "Preserving NOAH as an Anti-Displacement Strategy"
+    venue: "*Terner Center Blog*, Terner Center for Housing Innovation, UC Berkeley"
+    url: "https://ternercenter.berkeley.edu/blog/preserving-noah-as-an-anti-displacement-strategy/"
+
   - year: 2025
     authors: "**Song, T.**"
     title: "Why Data Disaggregation Matters: Exploring the Diversity of Asian American Economic Outcomes Using Public Use Microdata Sample Data"

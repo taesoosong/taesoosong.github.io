@@ -59,11 +59,25 @@ layout: base
 {% if site.data.news and site.data.news.size > 0 %}
 <section class="news">
   <p class="section-label">News</p>
-  {% for item in site.data.news %}
-  <div class="news-row">
-    <span class="news-date">{{ item.date }}</span>
-    <span class="news-text">{{ item.text | markdownify | remove: '<p>' | remove: '</p>' | strip }}</span>
-  </div>
+  {% comment %}
+    news.yml is newest first. Items are grouped by year, then by month (`date`).
+    The newest year is shown open; older years collapse.
+  {% endcomment %}
+  {% assign news_years = site.data.news | group_by: "year" %}
+  {% for y in news_years %}
+  {% if forloop.first %}<h3 class="news-year-label">{{ y.name }}</h3>
+  {% else %}<details class="news-year">
+  <summary class="news-year-label">{{ y.name }}</summary>{% endif %}
+  {% assign news_months = y.items | group_by: "date" %}
+  {% for m in news_months %}
+  <h3 class="news-month">{{ m.name | date: "%B" }}</h3>
+  <ul class="news-list">
+    {% for item in m.items %}
+    <li>{{ item.text | markdownify | remove: '<p>' | remove: '</p>' | strip }}</li>
+    {% endfor %}
+  </ul>
+  {% endfor %}
+  {% unless forloop.first %}</details>{% endunless %}
   {% endfor %}
 </section>
 {% endif %}
